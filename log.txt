@@ -1,0 +1,380 @@
+02-28 17:35:22.492  2247  2247 I A03d00/JSAPP: [Hypium]start running case 'SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300'
+02-28 17:35:22.493  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: class=AudioPlaybackCapturer
+02-28 17:35:22.493  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: current=110
+02-28 17:35:22.493  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: id=JS
+02-28 17:35:22.493  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: numtests=115
+02-28 17:35:22.493  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: stream=
+02-28 17:35:22.493  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300
+02-28 17:35:22.493  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS_CODE: 1
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: [js_ability_delegator662]argc: 1
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: [js_ability_delegator1320]enter
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: [ability_delegator352]Enter
+02-28 17:35:22.493  2247  2247 I C01303/AATool: [test_observer_proxy23]created
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: [ability_delegator365]message: 
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: class=AudioPlaybackCapturer
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: current=110
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: id=JS
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: numtests=115
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: stream=
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300
+02-28 17:35:22.493  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS_CODE: 1
+02-28 17:35:22.493  2247  2247 I C01303/AATool: [test_observer_proxy33]start
+02-28 17:35:22.493  2247  2247 I C01303/AATool: [test_observer_proxy28]destroyed
+02-28 17:35:22.493  2247  2247 I A03d00/JSAPP: [Hypium]SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300 specStart start print success
+02-28 17:35:22.494  2247  2247 I A03d00/JSAPP: AudioPlaybackCapturerTest AudioFrameworkTest: beforeEach: Prerequisites at the test case level
+02-28 17:35:22.495  2314  2478 I C01303/AATool: [test_observer43]enter, msg : 
+02-28 17:35:22.495  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: class=AudioPlaybackCapturer
+02-28 17:35:22.495  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: current=110
+02-28 17:35:22.495  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: id=JS
+02-28 17:35:22.495  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: numtests=115
+02-28 17:35:22.495  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: stream=
+02-28 17:35:22.495  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300
+02-28 17:35:22.495  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS_CODE: 1
+02-28 17:35:22.495  2314  2478 I C01303/AATool: , code : 0
+02-28 17:35:22.499   344  1094 I C02b85/HpaeMixerNode: [DrainProcess]trigger callback to disconnect
+02-28 17:35:22.522   344  1094 I C02b88/HpaeRendererManager: [operator()]mixerNode trigger callback, sceneType 8
+02-28 17:35:22.522   344  1094 I C02b88/HpaeProcessCluster: [GetSharedInstance]mixerNode_ id: 105
+02-28 17:35:22.522   344  1094 I C02b88/HpaeOutputCluster: [DisConnect]input sceneType is 8
+02-28 17:35:22.522   344  1094 I C02b88/IHpaeRendererManager: [OnNotifyDfxNodeInfo]disconnect preNodeId:419, NodeId:105
+02-28 17:35:22.522   344  1094 I C02b88/HpaeDfxMapTree: [DisConnectNodes]Disconnect success, parent name:hpaeAudioFormatConverterNode id:419, child name:hpaeMixerNode id:105
+02-28 17:35:22.522   344  1094 I C02b88/IHpaeRendererManager: [OnNotifyDfxNodeInfo]disconnect preNodeId:103, NodeId:419
+02-28 17:35:22.522   344  1094 I C02b88/HpaeDfxMapTree: [DisConnectNodes]Disconnect success, parent name:hpaeMixerNode id:103, child name:hpaeAudioFormatConverterNode id:419
+02-28 17:35:22.522   344  1094 I C02b87/HpaeAudioFormatConverterNode: [~HpaeAudioFormatConverterNode]NodeId: 419 NodeName: hpaeAudioFormatConverterNode destructed.
+02-28 17:35:22.522   344  1094 I C02b88/IHpaeRendererManager: [OnNotifyDfxNodeAdmin]Remove node, nodeName:hpaeAudioFormatConverterNode nodeId:419
+02-28 17:35:22.522   344  1094 I C02b88/HpaeDfxMapTree: [RemoveNode]Remove node 419 success
+02-28 17:35:22.523   344  1094 I C02b8b/AudioLimiter: [AudioLimiter]AudioLimiter
+02-28 17:35:22.523   344  1094 I C02b8b/AudioLimiter: [~AudioLimiter]~AudioLimiter
+02-28 17:35:22.523   344  1094 I C02b8b/AudioLimiter: [SetConfig]SetConfig Success, inputFrameBytes = 7056, bytePerSample = 4, sampleRate = 44100, channels = 2,newAlgoFrameLen = 441, latency = 5
+02-28 17:35:22.523   344  1094 I C02b85/HpaeMixerNode: [InitAudioLimiter]NodeId: 103, limiter init sucess!
+02-28 17:35:22.523   344  1094 E C02b88/HpaeRendererManager: [DisConnectCoBufferFromOnDisConnectProcessCluster]no need DisConnect CoBufferNode
+02-28 17:35:22.524   204   466 I C03d00/utils_base: content is empty, no need to save!
+02-28 17:35:22.586   556  2099 I C01121/BMSInstaller: begin to stop InstallerThreadPool
+02-28 17:35:22.588   556  2099 I C01121/BMSInstaller: DelayStopThreadPool end
+02-28 17:35:22.605   204   466 I C02d10/HiView-LogStoreEx: DoDeleteLogFiles: Remove <private> Files.
+02-28 17:35:22.605   204   466 I C02d11/FaultLogManager: SaveFaultLogToFile: create log fdsan-ohos.acts.multimedia.audio.audiocapturer-20010044-20260228173521679.log
+02-28 17:35:22.605   204   466 I C02d11/Faultlogger_Base: AddFaultLog: 
+02-28 17:35:22.605   204   466 I C02d11/Faultlogger_Base: Save Faultlog of Process:2247
+02-28 17:35:22.605   204   466 I C02d11/Faultlogger_Base: ModuleName:ohos.acts.multimedia.audio.audiocapturer
+02-28 17:35:22.605   204   466 I C02d11/Faultlogger_Base: Reason:Signal:DEBUG SIGNAL(FDSAN)\n
+02-28 17:35:22.608   204   466 I C02d10/ExtractRule: IsMatchPath: sourceFile is /data/log/faultlog/faultlogger/fdsan-ohos.acts.multimedia.audio.audiocapturer-20010044-20260228173521679.log, name is /data/log/faultlog/temp/, pattern is stacktrace-\d+-\d+.
+02-28 17:35:22.610   204   466 I C02d10/ComposeRule: ParseComposeRule: ComposeRule ParseFile end.
+02-28 17:35:22.612   204   466 I C02d11/FaultlogBundleUtil: bundleName of uid:20010044 is ohos.acts.multimedia.audio.audiocapturer
+02-28 17:35:22.613   204   466 I C02d11/Faultlogger_Base: AddFaultLog: Start saving Faultlog of Process:2247, Name:ohos.acts.multimedia.audio.audiocapturer, Reason:Signal:DEBUG SIGNAL(FDSAN)\n.
+02-28 17:35:22.615   204   466 I C02d11/FaultlogBundleUtil: The version of ohos.acts.multimedia.audio.audiocapturer is 1.0.0
+02-28 17:35:22.620   204   466 I C02d10/ExtractRule: IsMatchPath: sourceFile is /data/log/faultlog/temp/stacktrace-2247-1772271321990, name is /data/log/faultlog/temp/, pattern is stacktrace-\d+-\d+.
+02-28 17:35:22.620   204   466 I C02d10/ExtractRule: IsMatchPath: desPath is /data/log/faultlog/temp/stacktrace-2247-1772271321990.
+02-28 17:35:22.620   204   466 E C02d10/ExtractRule: GetJsonArray: failed to get json array number startSeg.
+02-28 17:35:22.620   204   466 E C02d10/ExtractRule: GetJsonArray: failed to get json array number segStack.
+02-28 17:35:22.620   204   466 I C02d10/ExtractRule: ParseRule: ParseFile eventId ADDR_SANITIZER, FeatureId 64_ADDR_SANITIZER_01.
+02-28 17:35:22.621   930  1084 I C02f03/[DEVAUTH]: operator(): The Service starts unloading.
+02-28 17:35:22.622   204   466 I C02d10/ComposeRule: ParseComposeRule: ComposeRule ParseFile end.
+02-28 17:35:22.622   204   466 I C02d10/FeatureAnalysis: AnalysisLog: <1772271322> begin analysis </data/log/faultlog/temp/stacktrace-2247-1772271321990>, eventType is <ADDR_SANITIZER>.
+02-28 17:35:22.622   209   236 I C01800/SAMGR: Scheduler SA:4701 unload start 930,0_1_2
+02-28 17:35:22.622   209   236 I C01800/SAMGR: Scheduler SA:4701 proc delay unload event
+02-28 17:35:22.622   209   236 I C01800/SAMGR: IdleSA:4701
+02-28 17:35:22.623   930  1084 I C01810/SAFWK: Idle-SA:4701
+02-28 17:35:22.624   930  1084 I C02f03/[DEVAUTH]: OnIdle: OnIdle, idleReason name is unload, isUnloading is YES.
+02-28 17:35:22.624   930  1084 I C01810/SAFWK: OnIdle-SA:4701 end,spend:0ms
+02-28 17:35:22.624   930  1084 I C01810/SAFWK: IdleSaInner suc to Idle SA:4701,delayTime:0,spend:0ms
+02-28 17:35:22.624   209   236 I C01800/SAMGR: Scheduler SA:4701 agree unload
+02-28 17:35:22.624   204   466 I C02d10/FeatureAnalysis: RawInfoPosition: <1772271322> skipStep is 32000. size:1
+02-28 17:35:22.624   209   236 I C01800/SAMGR: Scheduler SA:4701 unloadable
+02-28 17:35:22.624   209   241 I C01800/SAMGR: Scheduler proc:deviceauth_service unload all SA
+02-28 17:35:22.625   209   241 I C01800/SAMGR: Scheduler SA:4701 unload start
+02-28 17:35:22.625   930  1084 I C02f03/[DEVAUTH]: operator(): Service unloaded successfully.
+02-28 17:35:22.625   209   241 I C01800/SAMGR: StopSA:4701
+02-28 17:35:22.625   930  1067 I C01810/SAFWK: StopSa recv stop SA:4701 req
+02-28 17:35:22.625   209   241 I C01800/SAMGR: Scheduler SA:4701 unloading
+02-28 17:35:22.625   209   241 I C01800/SAMGR: Scheduler proc:deviceauth_service state 1 to 2
+02-28 17:35:22.625   209   241 I C01800/SAMGR: Scheduler proc:deviceauth_service stopping
+02-28 17:35:22.625   930  1067 I C01810/SAFWK: StopSaInner suc to stop SA:4701,eventLen:57,spend:0ms
+02-28 17:35:22.626   930  2900 I C01810/SAFWK: Stop-SA:4701
+02-28 17:35:22.626   930  2900 I C02f03/[DEVAUTH]: OnStop: DeviceAuthAbility OnStop
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: RemoveListener: Successfully removed a listener. [AppId]: deviceauth_service
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: RemoveCredListener: [CredListener]: Successfully removed a cred listener. [AppId]: deviceauth_service
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetIpcCallBackNode: appid is ohos.distributedhardware.devicemanager 
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetRemoteObject: remote object used done, idx 3
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetIpcCallBackNode: appid is ohos.distributedhardware.devicemanager 
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetRemoteObject: remote object used done, idx 4
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetIpcCallBackNode: appid is softbus_auth 
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetRemoteObject: remote object used done, idx 2
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetIpcCallBackNode: appid is softbus_auth 
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetRemoteObject: remote object used done, idx 0
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetIpcCallBackNode: appid is ohos.distributedhardware.devicemanagerservice 
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: ResetRemoteObject: remote object used done, idx 1
+02-28 17:35:22.627   930  2900 I C02f03/[DEVAUTH]: DestroyDeviceAuthService: [Service]: Start to destroy device auth service!
+02-28 17:35:22.628   930  2900 I C02f03/[DEVAUTH]: HcFileWrite: [OS]: file write enter. [OriSize]: 548
+02-28 17:35:22.628   930  2900 I C02f03/[DEVAUTH]: HcFileWrite: [OS]: file write quit. [WriteSize]: 548
+02-28 17:35:22.631   930  2900 I C02f03/[DEVAUTH]: SaveAllOperationInfo: [Operation]: Save an os account database [Id]: 100, ret = 0
+02-28 17:35:22.631   930  1083 W C02f03/[DEVAUTH]: TaskThreadLoop: thread quit!
+02-28 17:35:22.631   930  1083 I C02f03/[DEVAUTH]: TaskThreadLoop: task loop finish.
+02-28 17:35:22.631   930  2900 I C02f03/[DEVAUTH]: DestroySoftBusChannelModule: [SoftBus][In]: RemoveSessionServer!
+02-28 17:35:22.631   930  2900 I C05740/TransSdk: [client_trans_session_service.c:158] RemoveSessionServer# pkgName=com.huawei.devicegroupmanage, sessionName=com.hua**************pmanage
+02-28 17:35:22.634   514   977 I C05743/TransCtrl: [trans_session_manager.c:213] TransSessionServerDelItem# destroy session server sessionName=com.hua**************pmanage
+02-28 17:35:22.635   930  2900 I C05740/TransSdk: [client_trans_socket_manager.c:224] DestroyClientSessionServer# destroy session server sessionName=com.hua**************pmanage
+02-28 17:35:22.635   930  2900 I C02f03/[DEVAUTH]: DestroySoftBusChannelModule: [SoftBus][Out]: RemoveSessionServer! res: 0
+02-28 17:35:22.636   209   236 I C01800/SAMGR: rm SAListener 930,80
+02-28 17:35:22.636   209   236 I C01800/SAMGR: UnSubscribeSA:3299_930_80
+02-28 17:35:22.636   930  2900 I C02f03/[DEVAUTH]: UnSubscribeSystemAbility: [OsAccountAdapter]: unsubscribe common event sa succeed!
+02-28 17:35:22.636   209   236 I C01800/SAMGR: rm SAListener 930,6
+02-28 17:35:22.636   209   236 I C01800/SAMGR: UnSubscribeSA:1151_930_6
+02-28 17:35:22.637   930  2900 I C02f03/[DEVAUTH]: UnSubscribeSystemAbility: [OsAccountAdapter]: unsubscribe net connection manager sa succeed!
+02-28 17:35:22.638   204   204 I C02d10/DailyController: UpdateCacheAndDb: event first exceeds threshold=0, domain=DSOFTBUS, name=TRANSPORT_BEHAVIOR
+02-28 17:35:22.639   556  1023 I C01202/Subscriber: Unsubscribe 930_3333_-1_47_17033
+02-28 17:35:22.640   930  2900 I C02f03/[DEVAUTH]: UnSubscribeCommonEvent: [OsAccountAdapter]: unsubscribe common event succeed!
+02-28 17:35:22.640   930  2900 I C02f03/[DEVAUTH]: StopObserver: [NetObserver]: Start to unregister net connection callback.
+02-28 17:35:22.641   379   662 I C015b0/NetConnManager: start, callUid:3333, reqId:4, uid:3333
+02-28 17:35:22.642   379   662 I C015b0/NetConnManager: CancelRequest requestId:4
+02-28 17:35:22.642   379   662 E C015b0/NetConnManager: netController_ is nullptr
+02-28 17:35:22.642   379   662 I C015b0/NetConnManager: CancelRequest requestId:4
+02-28 17:35:22.642   379   662 E C015b0/NetConnManager: netController_ is nullptr
+02-28 17:35:22.643   379   662 I C015b0/NetConnManager: end, callUid:3333, reqId:4
+02-28 17:35:22.643   930  2900 I C02f03/[DEVAUTH]: StopObserver: [NetObserver]: unregister net connection callback res: 0.
+02-28 17:35:22.643   930  2900 I C02f03/[DEVAUTH]: DestroyDeviceAuthService: [End]: [Service]: Destroy device auth service successfully!
+02-28 17:35:22.644   930  2900 I C01810/SAFWK: Stop OnStop-SA:4701 finished,spend:17ms
+02-28 17:35:22.645   204  1102 I C02d11/Faultlogger: ReportSanitizerToAppEvent: info reason: Signal:DEBUG SIGNAL(FDSAN)\n, set sysEvent reason FDSAN
+02-28 17:35:22.645   209   236 I C01800/SAMGR: rm SA:4701_99
+02-28 17:35:22.645   209   236 I C01800/SAMGR: Scheduler SA:4701 handle unload suc event
+02-28 17:35:22.645   209   236 I C01800/SAMGR: Scheduler SA:4701 not loaded
+02-28 17:35:22.646   209   239 I C01800/SAMGR: Scheduler proc:deviceauth_service,SA num:1,notloaded num:1
+02-28 17:35:22.647   209   236 I C01800/SAMGR: clear SA:4701,map n:1
+02-28 17:35:22.647   209   243 I C01800/SAMGR: FindSaNotify SA:4701,4_88
+02-28 17:35:22.647   930  2900 I C01810/SAFWK: Stop suc to rm SA:4701,spend:2ms
+02-28 17:35:22.647   516   657 I C02f03/[DEVAUTH]: OnRemoveSystemAbility: [SystemAbilityStatusChangeListener]: OnRemoveSystemAbility systemAbilityId: 4701.
+02-28 17:35:22.647   516   657 I C02f03/[DEVAUTH]: OnReceivedDevAuthRemoved: SA unload.
+02-28 17:35:22.647   514   649 I C02f03/[DEVAUTH]: OnRemoveSystemAbility: [SystemAbilityStatusChangeListener]: OnRemoveSystemAbility systemAbilityId: 4701.
+02-28 17:35:22.647   514   649 I C02f03/[DEVAUTH]: OnReceivedDevAuthRemoved: SA unload.
+02-28 17:35:22.647   514   977 I C05720/AuthInit: [auth_hichain_system_ability_monitor.cpp:95] OnRemoveSystemAbility# onRemove saId=4701
+02-28 17:35:22.648   516  1035 I C01810/SAFWK: NotifyListener SA:4701,listenerSA:4802,code:2
+02-28 17:35:22.648   516  1035 I C04110/DHDM: [devicemanagerservice][OnRemoveSystemAbility]:OnRemoveSystemAbility systemAbilityId:4701 removed!
+02-28 17:35:22.648   516  1035 I C01810/SAFWK: FindNotifyListeners SA:4701,size:1,code:2,spend:0ms
+02-28 17:35:22.648   209   239 I C02c02/PARAM: SystemSetParameter name ohos.ctl.stop id:45 ret:0
+02-28 17:35:22.649   209   239 I C01800/SAMGR: Scheduler proc:deviceauth_service kill pid:930,3333_0_1ms
+02-28 17:35:22.654   204  1102 I C02d10/HiView-AppEventElapsedTime: ~ElapsedTime: get path placeHolder running 7 ms
+02-28 17:35:22.654   204  1102 E C02d10/HiView-EventPublish: PushEvent: Current sandbox base path is not exist.
+02-28 17:35:22.654   209   235 I C057c2/IPCObjectProxy: hd:122 ct:1 D:*.ISystemAbilityStatusChange
+02-28 17:35:22.654   209   236 I C057c2/IPCObjectProxy: hd:217 ct:1 D:*.ISystemAbilityStatusChange
+02-28 17:35:22.654   209   258 I C057c2/IPCObjectProxy: hd:327 ct:1 D:*.ISystemAbilityStatusChange
+02-28 17:35:22.655   209   209 I C057c2/IPCObjectProxy: hd:215 ct:1 D:*.accessToken
+02-28 17:35:22.655   209   209 I C01800/SAMGR: rm DeadProc:deviceauth_service,53
+02-28 17:35:22.655   209   209 I C01800/SAMGR: Scheduler proc:deviceauth_service handle stopped event
+02-28 17:35:22.655   209   235 I C01800/SAMGR: rm SAListener 930,14
+02-28 17:35:22.655   209   209 I C01800/SAMGR: Scheduler proc:deviceauth_service state 2 to 0
+02-28 17:35:22.655   209   209 I C01800/SAMGR: Scheduler proc:deviceauth_service stopped
+02-28 17:35:22.655   209   209 I C01800/SAMGR: remove onDemandSA. proc:deviceauth_service, size:14
+02-28 17:35:22.655   209   209 I C01800/SAMGR: Scheduler SA:4701 state current 0 is same as next 0
+02-28 17:35:22.655   209   258 I C01800/SAMGR: rm SAListener 930,38
+02-28 17:35:22.656   514   649 I C057c2/IPCObjectProxy: hd:13 ct:1 D:*.ISoftBusClient
+02-28 17:35:22.656   209   236 I C01800/SAMGR: rm SAListener 930,79
+02-28 17:35:22.657   381  1230 I C05a01/ATM: [RemovePermStateChangeCallback]Called
+02-28 17:35:22.657   381  1230 I C05a01/ATM: [RemoveCallback]Find callback
+02-28 17:35:22.657   381  1230 I C05a01/ATM: [RemoveCallback]CallbackInfoList_ 7
+02-28 17:35:22.658   514   649 I C05a01/ATM: [UnRegisterPermStateChangeCallback]Result is 0.
+02-28 17:35:22.658   514   649 I C05701/CommSvc: [softbus_client_info_manager.cpp:101] SoftbusRemoveService# SoftbusRemoveService, pid=930, pkgName=com.huawei.devicegroupmanage
+02-28 17:35:22.658   514   649 I C05701/CommSvc: [softbus_server_death_recipient.cpp:28] OnRemoteDied# client service died, remove it from softbus server. pkgName=com.huawei.devicegroupmanage
+02-28 17:35:22.658   514   649 I C05743/TransCtrl: [trans_channel_manager.c:979] TransChannelDeathCallback# pkgName=com.huawei.devicegroupmanage, pid=930
+02-28 17:35:22.658   514   649 I C05743/TransCtrl: [trans_session_manager.c:308] TransDelItemByPackageName# del pkgName=com.huawei.devicegroupmanage
+02-28 17:35:22.658   514   649 E C00f00/CommTest: [softbus_init_common.c:142] TransCheckFuncPointer# func not register.
+02-28 17:35:22.658   514   649 E C00f00/CommTest: [softbus_init_common.c:142] TransCheckFuncPointer# func not register.
+02-28 17:35:22.658   514   649 E C05786/LnnEvent: [lnn_bus_center_ipc.cpp:869] RemoveGroupByPkgName# not create group
+02-28 17:35:22.658   514   649 E C00f00/CommTest: [softbus_init_common.c:115] LnnCheckFuncPointer# func not register.
+02-28 17:35:22.658   514   649 I C05784/LnnLane: [g_enhance_lnn_func_pack.c:1736] SdMgrDeathCallbackPacked# sd death callback packed, func pointer is NULL
+02-28 17:35:22.658   514   649 E C00f00/CommTest: [softbus_init_common.c:115] LnnCheckFuncPointer# func not register.
+02-28 17:35:22.658   514   649 E C00f00/CommTest: [softbus_init_common.c:115] LnnCheckFuncPointer# func not register.
+02-28 17:35:22.658   514   649 W C05761/ConnBle: [softbus_conn_general_connection.c:322] ClearAllGeneralConnection# clean up connections
+02-28 17:35:22.695  2247  2321 I C02d06/XCollie: success to submit dump trace
+02-28 17:35:22.695  2247  2774 I C02d06/XCollie: Start to dump trace failed, openTrace result: 1203
+02-28 17:35:22.695  2247  2321 I C02d06/XCollie: Detect collect trace task complete.
+02-28 17:35:22.812  2247  2803 I C02b84/CapturerInClientInner: [WaitForRunning]Wait timeout, current state_ is -1
+02-28 17:35:23.019   204   466 I C03d00/utils_base: content is empty, no need to save!
+02-28 17:35:23.100   204   466 I C02d10/HiView-LogStoreEx: DoDeleteLogFiles: Remove <private> Files.
+02-28 17:35:23.100   204   466 I C02d11/FaultLogManager: SaveFaultLogToFile: create log fdsan-ohos.acts.multimedia.audio.audiocapturer-20010044-20260228173521990.log
+02-28 17:35:23.100   204   466 I C02d11/Faultlogger_Base: AddFaultLog: 
+02-28 17:35:23.100   204   466 I C02d11/Faultlogger_Base: Save Faultlog of Process:2247
+02-28 17:35:23.100   204   466 I C02d11/Faultlogger_Base: ModuleName:ohos.acts.multimedia.audio.audiocapturer
+02-28 17:35:23.100   204   466 I C02d11/Faultlogger_Base: Reason:Signal:DEBUG SIGNAL(FDSAN)\n
+02-28 17:35:23.103   204   466 I C02d10/ExtractRule: IsMatchPath: sourceFile is /data/log/faultlog/faultlogger/fdsan-ohos.acts.multimedia.audio.audiocapturer-20010044-20260228173521990.log, name is /data/log/faultlog/temp/, pattern is stacktrace-\d+-\d+.
+02-28 17:35:23.105   204   466 I C02d10/ComposeRule: ParseComposeRule: ComposeRule ParseFile end.
+02-28 17:35:23.130   209   236 I C01800/SAMGR: Scheduler SA:8350 unload start 2116,0_1_2
+02-28 17:35:23.130   209   236 I C01800/SAMGR: Scheduler SA:8350 proc delay unload event
+02-28 17:35:23.130   209   236 I C01800/SAMGR: IdleSA:8350
+02-28 17:35:23.132  2116  2135 I C01810/SAFWK: Idle-SA:8350
+02-28 17:35:23.132  2116  2135 I C01810/SAFWK: OnIdle-SA:8350 end,spend:0ms
+02-28 17:35:23.132  2116  2135 I C01810/SAFWK: IdleSaInner suc to Idle SA:8350,delayTime:0,spend:1ms
+02-28 17:35:23.132   209   236 I C01800/SAMGR: Scheduler SA:8350 agree unload
+02-28 17:35:23.132   209   236 I C01800/SAMGR: Scheduler SA:8350 unloadable
+02-28 17:35:23.133   209   248 I C01800/SAMGR: Scheduler proc:app_fwk_update_service unload all SA
+02-28 17:35:23.133   209   248 I C01800/SAMGR: Scheduler SA:8350 unload start
+02-28 17:35:23.133   209   248 I C01800/SAMGR: StopSA:8350
+02-28 17:35:23.133  2116  2135 I C04500/app_fwk_update_service: operator(): Do unload task done.
+02-28 17:35:23.133  2116  2130 I C01810/SAFWK: StopSa recv stop SA:8350 req
+02-28 17:35:23.133   209   248 I C01800/SAMGR: Scheduler SA:8350 unloading
+02-28 17:35:23.133   209   248 I C01800/SAMGR: Scheduler proc:app_fwk_update_service state 1 to 2
+02-28 17:35:23.133   209   248 I C01800/SAMGR: Scheduler proc:app_fwk_update_service stopping
+02-28 17:35:23.134  2116  2130 I C01810/SAFWK: StopSaInner suc to stop SA:8350,eventLen:57,spend:0ms
+02-28 17:35:23.134  2116  2902 I C01810/SAFWK: Stop-SA:8350
+02-28 17:35:23.134  2116  2902 I C04500/app_fwk_update_service: OnStop: Ready to stop service.
+02-28 17:35:23.134  2116  2902 I C01810/SAFWK: Stop OnStop-SA:8350 finished,spend:1ms
+02-28 17:35:23.136   209   236 I C01800/SAMGR: rm SA:8350_98
+02-28 17:35:23.136   209   236 I C01800/SAMGR: Scheduler SA:8350 handle unload suc event
+02-28 17:35:23.136   209   236 I C01800/SAMGR: Scheduler SA:8350 not loaded
+02-28 17:35:23.136   209   246 I C01800/SAMGR: FindSaNotify SA:8350,4_88
+02-28 17:35:23.136   209   246 I C01800/SAMGR: Scheduler proc:app_fwk_update_service,SA num:1,notloaded num:1
+02-28 17:35:23.136  2116  2902 I C01810/SAFWK: Stop suc to rm SA:8350,spend:2ms
+02-28 17:35:23.138   209   246 I C02c02/PARAM: SystemSetParameter name ohos.ctl.stop id:46 ret:0
+02-28 17:35:23.138   209   246 I C01800/SAMGR: Scheduler proc:app_fwk_update_service kill pid:2116,3350_0_1ms
+02-28 17:35:23.141   209   258 I C057c2/IPCObjectProxy: hd:337 ct:1 D:*.ISystemAbilityStatusChange
+02-28 17:35:23.141   556  1021 I C057c2/IPCObjectProxy: hd:242 ct:1 D:
+02-28 17:35:23.141   209   236 I C057c2/IPCObjectProxy: hd:338 ct:1 D:*.ISystemAbilityStatusChange
+02-28 17:35:23.141   209   209 I C057c2/IPCObjectProxy: hd:334 ct:1 D:*.accessToken
+02-28 17:35:23.142   209   209 I C01800/SAMGR: rm DeadProc:app_fwk_update_service,52
+02-28 17:35:23.142   209   209 I C01800/SAMGR: Scheduler proc:app_fwk_update_service handle stopped event
+02-28 17:35:23.142   209   209 I C01800/SAMGR: Scheduler proc:app_fwk_update_service state 2 to 0
+02-28 17:35:23.142   209   209 I C01800/SAMGR: Scheduler proc:app_fwk_update_service stopped
+02-28 17:35:23.142   556  1021 I C01202/Subscriber: Unsubscribe 2116_3350_-1_171_65191
+02-28 17:35:23.142   209   209 I C01800/SAMGR: remove onDemandSA. proc:app_fwk_update_service, size:14
+02-28 17:35:23.142   209   209 I C01800/SAMGR: Scheduler SA:8350 state current 0 is same as next 0
+02-28 17:35:23.142   209   258 I C01800/SAMGR: rm SAListener 2116,78
+02-28 17:35:23.142   209   236 I C01800/SAMGR: rm SAListener 2116,77
+02-28 17:35:23.174  2314  2314 I C01303/AATool: [system_time27]enter
+02-28 17:35:23.261  2247  2793 I C02b84/CapturerInClientInner: [WaitForRunning]Wait timeout, current state_ is -1
+02-28 17:35:23.296   206   275 I C04300/StorageManager: [GetSizeOfPath:111] StorageStatusManager::GetSizeOfPath path is /data, type is total space, size is 21049081856.
+02-28 17:35:23.296   206   275 I C04300/StorageManager: [GetSizeOfPath:111] StorageStatusManager::GetSizeOfPath path is /, type is total space, size is 1580601344.
+02-28 17:35:23.296   206   275 E C04300/StorageManager: [GetTotalSize:76] StorageTotalStatusService::GetTotalSize success, roundSize=32000000000, (/data)totalDataSize=21049081856, (/)totalRootSize=1580601344
+02-28 17:35:23.296   206   275 I C04300/StorageManager: [GetSizeOfPath:111] StorageStatusManager::GetSizeOfPath path is /data, type is free space, size is 20065366016.
+02-28 17:35:23.296   206   275 E C04300/StorageManager: [GetFreeSize:88] StorageTotalStatusService::GetFreeSize success, (/data)freeSize=20065366016
+02-28 17:35:23.296   206   275 I C04300/StorageManager: [MonitorAndManageStorage:158] clean_l, size=786432000, clean_m, size=1600000000, clean_h, size=3200000000
+02-28 17:35:23.296   206   275 I C04300/StorageManager: [MonitorAndManageStorage:167] notify_l, size=524288000, notify_m, size=2147483648, notify_h, size=3200000000
+02-28 17:35:23.328   380  1056 W C01f04/TelephonySubsystem: [GetSimAccountInfo-(multi_sim_controller.cpp:1079)] slotId 0 is invalid
+02-28 17:35:23.328   380  1056 E C01f04/TelephonySubsystem: GetSimAccountInfo fail!
+02-28 17:35:23.495  2247  2247 I C03f05/NAPI: ID: 359, cnt: 301
+02-28 17:35:23.498  2247  2247 I A03d00/JSAPP: SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0100 outputDeviceDescription is [{"deviceRole":2,"deviceType":2,"id":1,"name":"","address":"","networkId":"LocalDevice","dmDeviceType":0,"displayName":"OpenHarmony 3.2","model":"unknown","interruptGroupId":1,"volumeGroupId":1,"dmDeviceInfo":"","sampleRates":[44100],"channelCounts":[2],"channelMasks":[0],"channelIndexMasks":[0],"encodingTypes":[0],"spatializationSupported":false,"highQualityRecordingSupported":false,"capabilities":[{"samplingRate":48000,"encoding":0,"format":1,"channels":2,"channelLayout":3}]}]
+02-28 17:35:23.498  2247  2247 I A03d00/JSAPP: AudioPlaybackCapturerTest: Determine if this is a default device
+02-28 17:35:23.498  2247  2247 I A03d00/JSAPP: AudioPlaybackCapturerTest: this is a default device
+02-28 17:35:23.499  2247  2247 I A03d00/JSAPP: AudioPlaybackCapturerTest case2 dirPath is  "/data/storage/el2/base/haps/entry_test/files/capture_js-44100-2C-1S32LE_2.pcm"
+02-28 17:35:23.499  2247  2247 E C02b8b/NapiParamUtils: [GetValueInt64]GetValueInt64 napi_get_value_int64 failed
+02-28 17:35:23.499  2247  2247 E C02b8b/NapiParamUtils: [GetValueInt64]GetValueInt64 failed
+02-28 17:35:23.499  2247  2247 E C02b8b/NapiParamUtils: [GetPropertyString]can not find networkId property
+02-28 17:35:23.499  2247  2247 E C02b8b/NapiParamUtils: [GetPropertyString]can not find displayName property
+02-28 17:35:23.499  2247  2247 E C02b8b/NapiParamUtils: [GetPropertyString]can not find address property
+02-28 17:35:23.499  2247  2247 E C02b8b/NapiParamUtils: [GetValueInt64]GetValueInt64 napi_get_named_property failed
+02-28 17:35:23.500  2247  2247 I C02b82/AudioCapturer: [CreateCapturer]StreamClientState for Capturer::CreateCapturer sourceType:2, capturerFlags:0, AppInfo:[-1] [T] [T], 
+02-28 17:35:23.501  2247  2247 I C02b82/AudioCapturer: [SetParams]enter
+02-28 17:35:23.501   344   987 I C02b8b/AudioCoreService: [CreateCapturerClient]Generate sessionId: 100119 for stream
+02-28 17:35:23.501   344   987 I C02b8b/AudioCoreService: [CreateCapturerClient][DeviceFetchStart] for stream 100119
+02-28 17:35:23.502   344   987 E C02b8b/AudioCoreService: [SetPreferredInputDeviceIfValid]invalid deviceType
+02-28 17:35:23.502   344   987 I C02b8b/AudioStreamCollector: [operator()]Running Capturer stream : 100026 with uid -1
+02-28 17:35:23.502   344   987 I C02b8b/AudioRouterCenter: [FetchInputDevice]sourceType 2 didn't config router strategy, skipped
+02-28 17:35:23.502   344   987 I C02b8b/AudioCoreService: [DeviceFetchInfo] device UNKNOWN: for stream 100119
+02-28 17:35:23.502   344   987 I C02b8b/AudioCoreService: [CreateCapturerClient]Target audioFlag 0x0 for stream 100119
+02-28 17:35:23.502   344   987 I C02b8b/AudioCoreServicePrivate: [FetchCapturerPipeAndExecute][PipeFetchInfo] playbackcapture, no need fetch pipe
+02-28 17:35:23.502   344   987 I C02b8b/AudioCoreServicePrivate: [AddSessionId]AddSessionId: 100119, callingUid: 20010044
+02-28 17:35:23.502  2247  2247 I C02b82/AudioCapturer: StreamClientState for Capturer::CreateClient. id 100119, flag :4096
+02-28 17:35:23.502  2247  2247 I C02b82/AudioCapturer: [DecideStreamClassAndUpdateCapturerInfo]Route flag: 4096, streamClass: 0, capturerFlags: 0, pipeType: 2
+02-28 17:35:23.502  2247  2247 I C02b84/IAudioStream: [GetRecordStream]Create ipc record stream
+02-28 17:35:23.502  2247  2247 I C02b84/CapturerInClientInner: [CapturerInClientInner]Create with StreamType:1 appUid:20010044 
+02-28 17:35:23.502  2247  2247 I C02b82/AudioCapturer: [SetParams]IAudioStream::GetStream success
+02-28 17:35:23.502  2247  2247 I C02b84/CapturerInClientInner: [SetCapturerInfo]SetCapturerInfo with SourceType 2 flag 0
+02-28 17:35:23.502  2247  2247 I C02b84/CapturerInClientInner: [SetClientID]PID:2247 UID:20010044.
+02-28 17:35:23.502  2247  2247 I C02b84/CapturerInClientInner: [SetInnerCapturerState]SetInnerCapturerState true
+02-28 17:35:23.502  2247  2247 I C02b84/CapturerInClientInner: [SetAudioStreamInfo]AudioStreamInfo, Sampling rate: 44100, channels: 2, format: 3, stream type: 1, encoding type: 0
+02-28 17:35:23.502  2247  2247 I C02b84/CapturerInClientInner: [InitIpcStream]Init Ipc stream
+02-28 17:35:23.503   344   987 I C02b87/AudioServer: [ResetProcessConfig]Use true client appInfo instead for pid:2247 uid:20010044
+02-28 17:35:23.503   344   987 E C02b8b/AudioUtils: [VerifyPermission]Permission denied [ohos.permission.CAPTURE_PLAYBACK]
+02-28 17:35:23.505   556  1021 E C01120/BMS: [bms_extension_profile.cpp(ReadFileIntoJson:50)]access failed /system/etc/app/bms-extensions.json errno:2
+02-28 17:35:23.505   556  1021 E C01120/BMS: [bms_extension_profile.cpp(ParseBmsExtension:41)]Parse failed, jsonPath: /system/etc/app/bms-extensions.json
+02-28 17:35:23.505   556  1021 W C01120/BMS: [bms_extension_data_mgr.cpp(Init:46)]ParseBmsExtension failed 8520453
+02-28 17:35:23.505   556  1021 W C01120/BMS: [bms_extension_data_mgr.cpp(IsTargetApp:623)]link failed
+02-28 17:35:23.507   344   987 I C02b87/AudioServer: [GetHapBuildApiVersion]callerUid 20010044, version 23
+02-28 17:35:23.507   344   987 I C02b87/AudioServer: [ResetRecordConfig]callerUid 20010044, innerCapMode 1
+02-28 17:35:23.507   344   987 I C02b87/AudioServer: [CheckRecorderPermission]check for uid:20010044 source type:2
+02-28 17:35:23.507   344   987 I C02b87/AudioServer: [CheckRecorderPermission]CheckInnerRecorderPermission return 2
+02-28 17:35:23.507   344   987 I C02b8b/AudioUtils: [NeedVerifyBackgroundCapture]sourceType 2
+02-28 17:35:23.507   344   987 E C02b8b/PlaybackCapturerManager: [CheckCaptureLimit]Capture nume over limit
+02-28 17:35:23.507   344   987 E C02b87/AudioServer: [HandleCheckCaptureLimit]CheckCaptureLimit fail!
+02-28 17:35:23.507   344   987 I C02b8b/AudioCoreServiceEntry: [UpdateSessionOperation]withlock sessionId 100119, operation OPERATION_RELEASE, msg MSG_REMOVE_REC_PIPE
+02-28 17:35:23.507   344   987 E C02b8b/AudioCoreServicePrivate: [ForceRemoveSleStreamType]Stream desc is nullptr
+02-28 17:35:23.507   344   987 I C02b84/AudioPipeManager: [RemoveClient]Cur pipe list size 4, sessionId 100119
+02-28 17:35:23.508   344   987 I C02b8b/AudioCoreServicePrivate: [DeleteSessionId]DeleteSessionId: 100119
+02-28 17:35:23.508   344   987 E C02b87/AudioServer: [CreateAudioProcess]CreateAudioProcessInner failed
+02-28 17:35:23.508   344   987 E C02b8b/AudioServiceIdl: Write [client] failed!
+02-28 17:35:23.508  2247  2247 E C02b84/CapturerInClientInner: [InitIpcStream]failed with create audio stream fail.
+02-28 17:35:23.508  2247  2247 E C02b84/CapturerInClientInner: [SetAudioStreamInfo]Init stream failed: -3
+02-28 17:35:23.508  2247  2247 E C02b82/AudioCapturer: [InitAudioStream]SetAudioStreamInfo failed
+02-28 17:35:23.508  2247  2247 E C02b82/AudioCapturer: [SetParams]Normal Stream Init Failed
+02-28 17:35:23.508  2247  2247 I C02b82/AudioCapturer: [~AudioCapturerPrivate]~AudioCapturerPrivate
+02-28 17:35:23.509  2247  2247 W C02b87/AudioPolicyManager: [RemoveClientTrackerStub]Client tracker for session -1 not exist
+02-28 17:35:23.509  2247  2247 I C02b84/CapturerInClientInner: [~CapturerInClientInner]~CapturerInClientInner()
+02-28 17:35:23.509  2247  2247 W C02b84/CapturerInClientInner: [ReleaseAudioStream]Release while ipcStream is null
+02-28 17:35:23.509  2247  2247 I C02b84/CapturerInClientInner: [ReleaseAudioStream]Release end, sessionId: 0, uid: 20010044
+02-28 17:35:23.509  2247  2247 I C02b84/CapturerInClientInner: [~CapturerInClientInner][] volume data counts: 0
+02-28 17:35:23.509  2247  2247 E C02b8b/NapiAudioCapturer: [CreateAudioCapturerNativeObject]Capturer Create failed
+02-28 17:35:23.509   505   744 E C02b24/MediaEventBaseWriter: (WriteStreamCreateError(), 288): Write stream create error
+02-28 17:35:23.509  2247  2247 E C02b8b/NapiAudioCapturer: [Construct]failed to CreateAudioCapturerNativeObject
+02-28 17:35:23.512  2247  2247 I A03d00/JSAPP: AudioPlaybackCapturerTest AudioFrameworkRecLog: AudioCapturer Created : ERROR :  "system error"
+02-28 17:35:23.514  2247  2247 I C03f05/NAPI: ID: 361, cnt: 302
+02-28 17:35:23.514  2247  2247 E A03d00/JSAPP: [Hypium]stack:Cannot get SourceMap info, dump raw stack:
+02-28 17:35:23.514  2247  2247 E A03d00/JSAPP:     at AssertException (entry|@ohos/hypium|1.0.16|src/main/service.js:6:1)
+02-28 17:35:23.514  2247  2247 E A03d00/JSAPP:     at anonymous (entry|@ohos/hypium|1.0.16|src/main/service.js:814:1)
+02-28 17:35:23.514  2247  2247 E A03d00/JSAPP:     at o40 (entry|entry|1.0.0|src/ohosTest/ets/test/AudioPlaybackCapturer.test.ts:235:31)
+02-28 17:35:23.514  2247  2247 E A03d00/JSAPP: [Hypium]stack end
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: [Hypium][fail]SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300 ; consuming 1022ms
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: [Hypium][failDetail]expect true, actualValue is false
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: class=AudioPlaybackCapturer
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: current=110
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: id=JS
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: numtests=115
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: stack=Cannot get SourceMap info, dump raw stack:
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP:     at AssertException (entry|@ohos/hypium|1.0.16|src/main/service.js:6:1)
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP:     at anonymous (entry|@ohos/hypium|1.0.16|src/main/service.js:814:1)
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP:     at o40 (entry|entry|1.0.0|src/ohosTest/ets/test/AudioPlaybackCapturer.test.ts:235:31)
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: stream=Error in SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300, expect true, actualValue is false
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS_CODE: -2
+02-28 17:35:23.514  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: consuming=1022
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: [js_ability_delegator662]argc: 1
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: [js_ability_delegator1320]enter
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: [ability_delegator352]Enter
+02-28 17:35:23.515  2247  2247 I C01303/AATool: [test_observer_proxy23]created
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: [ability_delegator365]message: 
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: class=AudioPlaybackCapturer
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: current=110
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: id=JS
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: numtests=115
+02-28 17:35:23.515  2247  2247 I C01303/AATool: [test_observer_proxy33]start
+02-28 17:35:23.515  2247  2247 I C01303/AATool: [test_observer_proxy28]destroyed
+02-28 17:35:23.515  2314  2478 I C01303/AATool: [test_observer43]enter, msg : 
+02-28 17:35:23.515  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: class=AudioPlaybackCapturer
+02-28 17:35:23.515  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: current=110
+02-28 17:35:23.515  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: id=JS
+02-28 17:35:23.515  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: numtests=115, code : 0
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: [js_ability_delegator662]argc: 1
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: [js_ability_delegator1320]enter
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: [ability_delegator352]Enter
+02-28 17:35:23.515  2247  2247 I C01303/AATool: [test_observer_proxy23]created
+02-28 17:35:23.515  2247  2247 I C01330/Delegator: [ability_delegator365]message: OHOS_REPORT_STATUS: stack=Cannot get SourceMap info, dump raw stack:
+02-28 17:35:23.515  2247  2247 I C01330/Delegator:     at AssertException (entry|@ohos/hypium|1.0.16|src/main/service.js:6:1)
+02-28 17:35:23.515  2247  2247 I C01330/Delegator:     at anonymous (entry|@ohos/hypium|1.0.16|src/main/service.js:814:1)
+02-28 17:35:23.515  2247  2247 I C01330/Delegator:     at o40 (entry|entry|1.0.0|src/ohosTest/ets/test/AudioPlaybackCapturer.test.ts:235:31)
+02-28 17:35:23.515  2247  2247 I C01303/AATool: [test_observer_proxy33]start
+02-28 17:35:23.516  2247  2247 I C01303/AATool: [test_observer_proxy28]destroyed
+02-28 17:35:23.516  2314  2478 I C01303/AATool: [test_observer43]enter, msg : OHOS_REPORT_STATUS: stack=Cannot get SourceMap info, dump raw stack:
+02-28 17:35:23.516  2314  2478 I C01303/AATool:     at AssertException (entry|@ohos/hypium|1.0.16|src/main/service.js:6:1)
+02-28 17:35:23.516  2314  2478 I C01303/AATool:     at anonymous (entry|@ohos/hypium|1.0.16|src/main/service.js:814:1)
+02-28 17:35:23.516  2314  2478 I C01303/AATool:     at o40 (entry|entry|1.0.0|src/ohosTest/ets/test/AudioPlaybackCapturer.test.ts:235:31), code : 0
+02-28 17:35:23.516  2247  2247 I C01330/Delegator: [js_ability_delegator662]argc: 1
+02-28 17:35:23.516  2247  2247 I C01330/Delegator: [js_ability_delegator1320]enter
+02-28 17:35:23.516  2247  2247 I C01330/Delegator: [ability_delegator352]Enter
+02-28 17:35:23.516  2247  2247 I C01303/AATool: [test_observer_proxy23]created
+02-28 17:35:23.516  2247  2247 I C01330/Delegator: [ability_delegator365]message: OHOS_REPORT_STATUS: stream=Error in SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300, expect true, actualValue is false
+02-28 17:35:23.516  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300
+02-28 17:35:23.516  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS_CODE: -2
+02-28 17:35:23.516  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: consuming=1022
+02-28 17:35:23.516  2247  2247 I C01303/AATool: [test_observer_proxy33]start
+02-28 17:35:23.516  2247  2247 I C01303/AATool: [test_observer_proxy28]destroyed
+02-28 17:35:23.516  2314  2478 I C01303/AATool: [test_observer43]enter, msg : OHOS_REPORT_STATUS: stream=Error in SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300, expect true, actualValue is false
+02-28 17:35:23.516  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300
+02-28 17:35:23.516  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS_CODE: -2
+02-28 17:35:23.516  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: consuming=1022
+02-28 17:35:23.516  2314  2478 I C01303/AATool: , code : 0
+02-28 17:35:23.516  2247  2247 I A03d00/JSAPP: [Hypium]SUB_MULTIMEDIA_AUDIO_INNER_CAPTURER_PROMISE_0300 specDone end print success
