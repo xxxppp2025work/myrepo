@@ -1,0 +1,762 @@
+02-28 17:34:51.544  2247  2247 I A03d00/JSAPP: [Hypium]start running case 'SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100'
+02-28 17:34:51.544  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: class=audioCapturer
+02-28 17:34:51.544  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: current=21
+02-28 17:34:51.544  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: id=JS
+02-28 17:34:51.544  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: numtests=115
+02-28 17:34:51.544  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: stream=
+02-28 17:34:51.544  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100
+02-28 17:34:51.544  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS_CODE: 1
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: [js_ability_delegator662]argc: 1
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: [js_ability_delegator1320]enter
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: [ability_delegator352]Enter
+02-28 17:34:51.545  2247  2247 I C01303/AATool: [test_observer_proxy23]created
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: [ability_delegator365]message: 
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: class=audioCapturer
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: current=21
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: id=JS
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: numtests=115
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: stream=
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100
+02-28 17:34:51.545  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS_CODE: 1
+02-28 17:34:51.545  2247  2247 I C01303/AATool: [test_observer_proxy33]start
+02-28 17:34:51.545  2247  2247 I C01303/AATool: [test_observer_proxy28]destroyed
+02-28 17:34:51.545  2314  2317 I C01303/AATool: [test_observer43]enter, msg : 
+02-28 17:34:51.545  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: class=audioCapturer
+02-28 17:34:51.545  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: current=21
+02-28 17:34:51.545  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: id=JS
+02-28 17:34:51.545  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: numtests=115
+02-28 17:34:51.545  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: stream=
+02-28 17:34:51.545  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100
+02-28 17:34:51.545  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS_CODE: 1
+02-28 17:34:51.545  2314  2317 I C01303/AATool: , code : 0
+02-28 17:34:51.545  2247  2247 I A03d00/JSAPP: [Hypium]SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100 specStart start print success
+02-28 17:34:51.546  2247  2247 I A03d00/JSAPP: beforeEach called
+02-28 17:34:51.546  2247  2247 I C03f05/NAPI: ID: 89, cnt: 64
+02-28 17:34:51.546  2247  2247 I A03d00/JSAPP: AudioCpaturer case2 dirPath is  "/data/storage/el2/base/haps/entry_test/files/capture_CB_js-44100-2C-S16LE-checkpromisereadbuffer.pcm"
+02-28 17:34:51.547  2247  2247 E C02b8b/NapiParamUtils: [GetValueInt64]GetValueInt64 napi_get_value_int64 failed
+02-28 17:34:51.547  2247  2247 E C02b8b/NapiParamUtils: [GetValueInt64]GetValueInt64 failed
+02-28 17:34:51.547  2247  2247 E C02b8b/NapiParamUtils: [GetPropertyString]can not find networkId property
+02-28 17:34:51.547  2247  2247 E C02b8b/NapiParamUtils: [GetPropertyString]can not find displayName property
+02-28 17:34:51.547  2247  2247 E C02b8b/NapiParamUtils: [GetPropertyString]can not find address property
+02-28 17:34:51.547  2247  2247 E C02b8b/NapiParamUtils: [GetValueInt64]GetValueInt64 napi_get_named_property failed
+02-28 17:34:51.547  2247  2247 E C02b8b/NapiParamUtils: [GetCaptureFilterOptionsVector]GetUsages failed
+02-28 17:34:51.547  2247  2247 I C02b82/AudioCapturer: [CreateCapturer]StreamClientState for Capturer::CreateCapturer sourceType:0, capturerFlags:0, AppInfo:[-1] [T] [T], 
+02-28 17:34:51.548  2247  2247 I C02b82/AudioCapturer: [SetParams]enter
+02-28 17:34:51.549   344   360 I C02b8b/AudioCoreService: [CreateCapturerClient]Generate sessionId: 100026 for stream
+02-28 17:34:51.549   344   360 I C02b8b/AudioCoreService: [CreateCapturerClient][DeviceFetchStart] for stream 100026
+02-28 17:34:51.549   344   360 E C02b8b/AudioCoreService: [SetPreferredInputDeviceIfValid]invalid deviceType
+02-28 17:34:51.549   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.549   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.549   344   360 I C02b8b/AudioCoreService: [DeviceFetchInfo] device MIC: for stream 100026
+02-28 17:34:51.549   344   360 I C02b8b/AudioCoreService: [CreateCapturerClient]Target audioFlag 0x0 for stream 100026
+02-28 17:34:51.549   344   360 I C02b8b/AudioCoreServicePrivate: [FetchCapturerPipeAndExecute][PipeFetchStart] for stream 100026
+02-28 17:34:51.549   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100026, flag:0x0, target flag:0x1000
+02-28 17:34:51.549   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.549   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.549   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.549   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.549   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.549   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.549   344   360 I C02b84/AudioPipeSelector: [ScanPipeListForStreamDesc]Route flag after concurrency: 4096  sessionId: 100026
+02-28 17:34:51.549   344   360 I C02b84/AudioPipeSelector: [FetchPipeAndExecute]Original Pipelist size: 2, stream routeFlag: 0x1000 to fetch
+02-28 17:34:51.550   344   360 I C02b84/AudioPipeSelector: [UpdateDeviceStreamInfo]DeviceStreamInfo:0,1,44100,3
+02-28 17:34:51.550   344   360 I C02b84/AudioPipeSelector: PipeName primary_input action 0 adapter[primary] pipeRoute[0x1000] streamRoute[0x1000] pipeChannel[2] streamChannel[2] pipeFormat[1] streamFormat[1] pipeSamplingRate[44100] streamSamplingRate[44100]
+02-28 17:34:51.550   344   360 I C02b84/AudioPipeSelector: [PipeFetchInfo] use existing Pipe id 4096, adapter primary, name primary_input for stream 100026, pipeAction: 2
+02-28 17:34:51.550   344   360 I C02b8b/AudioCoreServicePrivate: [PipeExecInfo] Scan Pipe adapter: primary, name: primary_input, action: 2
+02-28 17:34:51.550   344   360 I C02b88/ProAudioServiceAdapterImpl: [GetAllSourceOutputs]Enter
+02-28 17:34:51.550   344   918 I C02b88/HpaeManager: [operator()]source output number:6
+02-28 17:34:51.550   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnGetAllSourceOutputsCb]Result: 0
+02-28 17:34:51.550   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100015, action: 0, belong to primary_input
+02-28 17:34:51.550   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100015 to [15][]
+02-28 17:34:51.550   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.550   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100015, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.550   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.551   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.551   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100016, action: 0, belong to primary_input
+02-28 17:34:51.551   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100016 to [15][]
+02-28 17:34:51.551   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.551   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100016, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.551   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.551   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.551   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100017, action: 0, belong to primary_input
+02-28 17:34:51.552   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100017 to [15][]
+02-28 17:34:51.552   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.552   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100017, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.552   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.552   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.552   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100018, action: 0, belong to primary_input
+02-28 17:34:51.553   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100018 to [15][]
+02-28 17:34:51.553   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.553   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100018, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.553   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.553   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.553   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100019, action: 0, belong to primary_input
+02-28 17:34:51.553   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100019 to [15][]
+02-28 17:34:51.553   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.553   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100019, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.554   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.554   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.554   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100020, action: 0, belong to primary_input
+02-28 17:34:51.554   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100020 to [15][]
+02-28 17:34:51.554   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.554   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100020, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.554   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.554   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.554   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100026, action: 1, belong to primary_input
+02-28 17:34:51.555   344   360 I C02b8b/AudioCoreServicePrivate: [AddSessionId]AddSessionId: 100026, callingUid: 20010044
+02-28 17:34:51.555  2247  2247 I C02b82/AudioCapturer: StreamClientState for Capturer::CreateClient. id 100026, flag :4096
+02-28 17:34:51.555  2247  2247 I C02b82/AudioCapturer: [DecideStreamClassAndUpdateCapturerInfo]Route flag: 4096, streamClass: 0, capturerFlags: 0, pipeType: 2
+02-28 17:34:51.555  2247  2247 I C02b84/IAudioStream: [GetRecordStream]Create ipc record stream
+02-28 17:34:51.555  2247  2247 I C02b84/CapturerInClientInner: [CapturerInClientInner]Create with StreamType:1 appUid:20010044 
+02-28 17:34:51.555  2247  2247 I C02b82/AudioCapturer: [SetParams]IAudioStream::GetStream success
+02-28 17:34:51.555  2247  2247 I C02b84/CapturerInClientInner: [SetCapturerInfo]SetCapturerInfo with SourceType 0 flag 0
+02-28 17:34:51.555  2247  2247 I C02b84/CapturerInClientInner: [SetClientID]PID:2247 UID:20010044.
+02-28 17:34:51.555  2247  2247 I C02b84/CapturerInClientInner: [SetAudioStreamInfo]AudioStreamInfo, Sampling rate: 44100, channels: 2, format: 1, stream type: 1, encoding type: 0
+02-28 17:34:51.555  2247  2247 I C02b84/CapturerInClientInner: [InitIpcStream]Init Ipc stream
+02-28 17:34:51.556   344   360 I C02b87/AudioServer: [ResetProcessConfig]Use true client appInfo instead for pid:2247 uid:20010044
+02-28 17:34:51.556   344   360 I C02b87/AudioServer: [CheckRecorderPermission]check for uid:20010044 source type:0
+02-28 17:34:51.556   344   360 I C02b87/AudioServer: [CheckRecorderPermission]CheckInnerRecorderPermission return 2
+02-28 17:34:51.557   565  2603 I C05a02/PRIVACY: [IsAllowedUsingMicrophone]Id 537689555, pid -1, status 1(1-fore 2-back).
+02-28 17:34:51.557   344   360 I C05a02/PRIVACY: [IsAllowedUsingPermission]Request result is true.
+02-28 17:34:51.557   344   360 I C02b87/AudioServer: [CreateAudioStream]Create normal ipc stream, isFastControlled: 1
+02-28 17:34:51.557   344   360 I C02b86/IpcStreamInServer: [IpcStreamInServer]IpcStreamInServer(), uid: 20010044
+02-28 17:34:51.557   344   360 I C02b83/AudioStreamMonitor: [AddCheckForMonitor]Add checker for monitor, sessionId = 100026
+02-28 17:34:51.558   344   360 I C02b83/AudioStreamMonitor: [AddCheckForMonitor]Add checker for monitor success, uid = 20010044
+02-28 17:34:51.558   344   360 I C02b83/AudioStreamMonitor: [AddCheckForMonitor]Find register, need init checker, uid = -1
+02-28 17:34:51.558   344   360 I C02b83/AudioFramework: [IsMonitorMuteFrame]badDataTransferTypeBitMap = 1
+02-28 17:34:51.558   344   360 I C02b83/AudioFramework: [IsMonitorNoDataFrame]badDataTransferTypeBitMap = 1
+02-28 17:34:51.558   344   360 I C02b83/AudioFramework: [InitChecker]Init checker end, pid = 344, callbackId = -1, uid = -1
+02-28 17:34:51.558   344  1070 I C02b8b/AudioCapturerSession: [OnCapturerSessionAdded]sessionID: 100026 source: 0
+02-28 17:34:51.558   344  1070 I C02b84/AudioPipeManager: [FindPipeBySessionId]find pipe: primary_input by sessionId: 100026
+02-28 17:34:51.559   344   360 I C02b8b/AudioCoreServicePrivate: [GetModuleNameBySessionId]SessionId 100026
+02-28 17:34:51.559   344   360 I C02b84/AudioPipeManager: [GetModuleNameBySessionId]adapter name: Built_in_mic
+02-28 17:34:51.559   344   360 I C02b88/HpaeManager: [CreateStream]defaultSink_ is Speaker defaultSource_ is Built_in_mic streamClassType 1
+02-28 17:34:51.559   344   918 I C02b88/HpaeManager: [operator()]streamType is 1 sessionId 100026 sourceType is 0,channels:2,rate:44100
+02-28 17:34:51.559   344   918 I C02b88/HpaeManager: [operator()]source:Built_in_mic, sessionId:100026
+02-28 17:34:51.559   344   360 I C02b88/HpaeCapturerStreamImpl: [SetStreamIndex]Using index/sessionId 100026
+02-28 17:34:51.559   344   360 I C02b89/CapturerClock: [CapturerClock]Created, capturer sampling rate:44100
+02-28 17:34:51.559   344   360 I C02b86/CapturerInServer: [ConfigServerBuffer]ConfigProcessBuffer: totalSizeInFrame_: 3528, spanSizeInFrame_: 882,byteSizePerFrame_: 4, spanSizeInBytes_ 3528
+02-28 17:34:51.559   344   360 I C02b86/CapturerInServer: [InitCacheBuffer]old size:0, new size:7056
+02-28 17:34:51.559   344   918 I C02b88/HpaeManager: [operator()]RegisterStatusCallback streamClassType 1, sessionId 100026
+02-28 17:34:51.559   344   360 I C02b86/AudioRingCache: [AudioRingCache]AudioRingCache() with cacheSize:7056
+02-28 17:34:51.559   344   918 I C02b88/HpaeManager: [operator()]capturer RegisterStatusCallback sessionId: 100026 deviceName:Built_in_mic
+02-28 17:34:51.559   344   918 I C02b88/HpaeManager: [operator()]RegisterReadCallback sessionId 100026
+02-28 17:34:51.559   344   918 I C02b88/HpaeManager: [operator()]capturer RegisterReadCallback sessionId: 100026 deviceName:Bu*****n_mic
+02-28 17:34:51.559   344  2561 I C02b88/HpaeCapturerManager: [CreateOutputSession]CreateStream sessionId 100026 deviceName Built_in_mic,channel:2,rate:44100
+02-28 17:34:51.559   344  2561 I C02b88/IHpaeCapturerManager: [OnNotifyDfxNodeAdmin]Add node, nodeName:hpaeSourceOutputNode nodeId:236
+02-28 17:34:51.559   344  2561 I C02b88/HpaeDfxMapTree: [AddNode]Add node success, nodeName:hpaeSourceOutputNode nodeId:236
+02-28 17:34:51.559   344  2561 I C02b12/HpaePluginNode: [HpaePluginNode]NodeId:0,rate:44100,channle:2
+02-28 17:34:51.559   344  2561 E C02b85/HpaeCaptureEffectNode: [HpaeCaptureEffectNode]scenetype: 7 not supported
+02-28 17:34:51.559   344  2561 I C02b88/IHpaeCapturerManager: [OnNotifyDfxNodeAdmin]Add node, nodeName:hpaeCaptureEffectNode nodeId:238
+02-28 17:34:51.560   344  2561 I C02b88/HpaeDfxMapTree: [AddNode]Add node success, nodeName:hpaeCaptureEffectNode nodeId:238
+02-28 17:34:51.560   344  2561 I C02b12/HpaePluginNode: [HpaePluginNode]NodeId:0,rate:44100,channle:2
+02-28 17:34:51.560   344  2561 I C02b88/IHpaeCapturerManager: [OnNotifyDfxNodeAdmin]Add node, nodeName:hpaeMixerNode nodeId:239
+02-28 17:34:51.560   344  2561 I C02b88/HpaeDfxMapTree: [AddNode]Add node success, nodeName:hpaeMixerNode nodeId:239
+02-28 17:34:51.560   344  2561 I C02b88/HpaeSourceProcessCluster: [HpaeSourceProcessCluster]sceneType = 0
+02-28 17:34:51.560   344  2561 I C02b88/HpaeCapturerManager: [CaptureEffectCreate]sceneCode:1sceneKeyCode:4563402752
+02-28 17:34:51.560   344   360 I C02b86/CapturerInServer: [InitBufferStatus]InitBufferStatus: spanCount 4
+02-28 17:34:51.560   344  2561 E C02b87/AudioEnhanceChainManagerImpl: [CreateAudioEnhanceChainDynamic]no enhance chain config info
+02-28 17:34:51.560   344  2561 E C02b85/HpaeCaptureEffectNode: [CaptureEffectCreate]failed, ret:-62980096
+02-28 17:34:51.560   344   360 I C02b88/HpaeCapturerStreamImpl: [RegisterReadCallback]RegisterReadCallback start
+02-28 17:34:51.560   344  2561 I C02b85/HpaeCaptureEffectNode: [~HpaeCaptureEffectNode]NodeId: 238 NodeName: hpaeCaptureEffectNode destructed.
+02-28 17:34:51.560   344  2561 I C02b88/IHpaeCapturerManager: [OnNotifyDfxNodeAdmin]Remove node, nodeName:hpaeCaptureEffectNode nodeId:238
+02-28 17:34:51.560   344  2561 I C02b88/HpaeDfxMapTree: [RemoveNode]Remove node 238 success
+02-28 17:34:51.560   344   360 I C02b86/AudioService: [InsertCapturer]Insert capturer:100026 into map
+02-28 17:34:51.560   344  2561 E C02b88/HpaeCapturerManager: [CaptureEffectCreate]sceneType[1] create failed
+02-28 17:34:51.560   344  2561 W C02b88/HpaeCapturerManager: [CreateSceneCluster]sceneType[21] create failed, not delete sceneCluster
+02-28 17:34:51.560   344  2561 I C02b88/HpaeSourceOutputNode: [SetState]Capturer[]->Session[100026 - 1] state change:[NEW]-->[PREPARED]
+02-28 17:34:51.560   344  2561 E C02b88/HpaeSourceInputNode: [NotifyStreamChangeToSource]invalid source state
+02-28 17:34:51.562  2247  2247 I C02b84/CapturerInClientInner: [InitSharedBuffer]totalSizeInFrame_[3528] spanSizeInFrame_[882] sizePerFrameInByte_[4] clientSpanSizeInByte_[3528]
+02-28 17:34:51.562  2247  2247 I C02b84/CapturerInClientInner: [InitCacheBuffer]old size:0, new size:3528
+02-28 17:34:51.562  2247  2247 I C02b86/AudioRingCache: [AudioRingCache]AudioRingCache() with cacheSize:3528
+02-28 17:34:51.563  2247  2247 I C02b84/CapturerInClientInner: [RegisterTracker]Calling register tracker, sessionid = 100026
+02-28 17:34:51.564   344   360 I C02b8b/AudioPolicyServer: [GetAppVolumeLevel]GetAppVolumeLevel appUid : 20010044
+02-28 17:34:51.564   344   360 I C02b8b/AudioPolicyServer: [RegisterClientDeathRecipient]Tracker has been registered for uid:20010044 pid:2247!
+02-28 17:34:51.564   344   360 I C02b8b/AudioStreamCollector: [AddCapturerStream]Add recording client uid 20010044 sessionId 100026
+02-28 17:34:51.565   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: default, id: 4096
+02-28 17:34:51.566  2247  2247 I C02b82/AudioCapturer: [InitLatencyMeasurement]LatencyMeas enabled in capturer:0
+02-28 17:34:51.567   369  1442 E C01702/CgroupEventHandler: [a92ab6b6bb8a6bc] HandleReportAudioCapTureState : payload does not contain uid or pid
+02-28 17:34:51.569   556   901 W C01120/BMS: bundle_permission_mgr.cpp:IsSystemApp:496 IsSystemApp 20010044,2247,537689555
+02-28 17:34:51.569   556   901 E C01120/BMS: non-system permission deny
+02-28 17:34:51.571   344   360 I C02b8b/AudioPolicyServer: [SetAudioInterruptCallback]The sessionId 100026, callingUid 20010044, clientUid 20010044
+02-28 17:34:51.571   344   360 I C02b8b/AudioInterruptService: [SetCallingUid]uid: 20010044
+02-28 17:34:51.572  2247  2247 I C02b84/CapturerInClientInner: [SafeSendCallbackEvent]Send callback event, code: 0, data: 1
+02-28 17:34:51.572  2247  2623 E C02b82/NapiAudioCapturerCallback: [OnStateChange]Cannot find the reference of stateChange callback
+02-28 17:34:51.572  2247  2340 I C02b82/AudioCapturer: StreamClientState for Capturer::Start. id 100026, sourceType: 0
+02-28 17:34:51.573   344   360 W C02b87/AudioSessionService: [IsAudioSessionActivated]The audio seesion of pid 2247 is not found!
+02-28 17:34:51.573   344   360 W C02b8b/AudioInterruptService: [PrintLogsOfFocusStrategyBaseMusic]The audio focus strategy based on music: forceType: 0, hintType: 2, actionOn: 0. Caller info: pid [2247], uid [20010044], bundleName [ohos.acts.multimedia.audio.audiocapturer].
+02-28 17:34:51.573   344   360 I C02b8b/AudioInterruptService: [ActivateAudioInterruptInternal]streamId: 100026 pid: 2247 streamType: -1  zoneId: 0 usage: 0 source: 0
+02-28 17:34:51.575   344   360 I C02b8b/AudioInterruptDfxCollector: [WriteInfoMsg][WriteInfoMsg] streamUsage=0, concurrencyMode=-1
+02-28 17:34:51.575   344   360 I C02b8b/AudioInterruptService: [ProcessAudioScene]audioFocusInfoList is empty
+02-28 17:34:51.575   344   360 W C02b87/AudioSessionService: [IsAudioSessionActivated]The audio seesion of pid 2247 is not found!
+02-28 17:34:51.575   344   360 I C02b87/AudioServer: [SetSessionMuteState]sessionId_: 100026, muteFlag: 0
+02-28 17:34:51.576   344   360 I C02b8b/AudioInterruptService: [GetStreamInFocusInternal]focus session is 0
+02-28 17:34:51.576   344   360 I C02b8b/AudioSceneManager: [SetAudioScenePre]Set audio scene start 0, lastScene 0
+02-28 17:34:51.576   344   360 I C02b87/AudioStateManager: [SetAudioSceneOwnerUid]ownerUid_: 0, uid: 0
+02-28 17:34:51.576   344   360 I C02b87/AudioServer: [SetAudioScene]Scene: 0, a2dpOffloadFlag: 0, scoExcludeFlag: 0
+02-28 17:34:51.576   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: usb, id: 4097
+02-28 17:34:51.577   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 1, useCount: 2
+02-28 17:34:51.577   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4097
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 11, info: accessory, id: 6914
+02-28 17:34:51.577   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 2, useCount: 1
+02-28 17:34:51.577   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 6914
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: default, id: 4096
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 12, info: default, id: 7168
+02-28 17:34:51.577   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 0, useCount: 5
+02-28 17:34:51.577   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 7168
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: unprocess, id: 4099
+02-28 17:34:51.577   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 3, useCount: 1
+02-28 17:34:51.577   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4099
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: ultrasonic, id: 4100
+02-28 17:34:51.577   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 4, useCount: 1
+02-28 17:34:51.577   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4100
+02-28 17:34:51.577   344  1058 I C02b8b/AudioPolicyServerHandler: [HandleFocusInfoChangeEvent]focusInfoList :1
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: voice_recognition, id: 4101
+02-28 17:34:51.577   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 5, useCount: 1
+02-28 17:34:51.577   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4101
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 6, info: default, id: 5632
+02-28 17:34:51.577   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 0, useCount: 5
+02-28 17:34:51.577   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 5632
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 1, info: default, id: 4352
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 1, info: voip, id: 4358
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 0, type: 0, info: usb, id: 1
+02-28 17:34:51.577   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 1, useCount: 2
+02-28 17:34:51.577   344   360 W C02b89/HdiAdapterManager: [GetRenderSink]no available sink, renderId: 1
+02-28 17:34:51.577   344   360 I C02b89/HdiAdapterManager: [GetId]base: 0, type: 0, info: default, id: 0
+02-28 17:34:51.577   344   360 I C02b87/AudioServer: [SetAudioBalanceStatus]isAudioBalanceEnabled: 1
+02-28 17:34:51.577   344   360 I C02b8b/AudioCoreService: [DeviceFetchStart] by SetAudioSceneFetchDeviceAndRoute for 0 output streams, in devices device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.577   344   360 E C02b84/AudioPipeManager: [GetModemCommunicationStreamDescCopy]ModemCommunicationMap is empty!
+02-28 17:34:51.577   344   360 I C02b87/AudioActiveDevice: [UpdateStreamDeviceMap]
+02-28 17:34:51.577   344   360 I C02b8b/AudioRouterCenter: [FetchOutputDevicesInner][HandleFetchOutputWhenNoRunningStream] usage:1 uid:-1 size:[1], 1st type:[2], id:[1], router:1 
+02-28 17:34:51.578   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchStart] by SetAudioSceneFetchDeviceAndRoute for 7 input streams, in devices device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.578   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.578   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.578   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100015 with status 0
+02-28 17:34:51.578   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.578   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.578   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100016 with status 0
+02-28 17:34:51.578   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.579   369   452 E C01702/CgroupEventHandler: [a92ab7b6bb8d276] HandleReportAudioCapTureState : payload does not contain uid or pid
+02-28 17:34:51.579   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.579   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100017 with status 0
+02-28 17:34:51.579   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.579   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.579   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100018 with status 0
+02-28 17:34:51.579   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.579   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.580   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100019 with status 0
+02-28 17:34:51.580   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.580   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.580   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100020 with status 0
+02-28 17:34:51.580   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.580   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.580   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100026 with status 0
+02-28 17:34:51.580   344   360 I C02b8b/AudioCoreServicePrivate: [FetchCapturerPipesAndExecute][PipeFetchStart] all 7 input streams
+02-28 17:34:51.580   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100015, flag:0x0, target flag:0x1000
+02-28 17:34:51.580   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100016, flag:0x0, target flag:0x1000
+02-28 17:34:51.580   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.580   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100017, flag:0x0, target flag:0x1000
+02-28 17:34:51.580   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100018, flag:0x0, target flag:0x1000
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100019, flag:0x0, target flag:0x1000
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100020, flag:0x0, target flag:0x1000
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100026, flag:0x0, target flag:0x1000
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.581   344   360 I C02b84/AudioPipeSelector: [DecidePipesAndStreamAction][PipeFetchInfo] Name primary_input, PipeAction: 2
+02-28 17:34:51.581   344   360 I C02b84/AudioPipeSelector: [DecidePipesAndStreamAction]    |-[PipeFetchInfo] Id 100015, 100016, 100017, 100018, 100019, 100020, 100026,
+02-28 17:34:51.581   344   360 I C02b8b/AudioCoreServicePrivate: [FetchCapturerPipesAndExecute][PipeExecStart] for all Pipes
+02-28 17:34:51.581   344   360 I C02b8b/AudioCoreServicePrivate: [PipeExecInfo] Scan Pipe adapter: primary, name: primary_input, action: 2
+02-28 17:34:51.581   344   360 I C02b88/ProAudioServiceAdapterImpl: [GetAllSourceOutputs]Enter
+02-28 17:34:51.582   344   918 I C02b88/HpaeManager: [operator()]source output number:7
+02-28 17:34:51.582   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnGetAllSourceOutputsCb]Result: 0
+02-28 17:34:51.582   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100015, action: 0, belong to primary_input
+02-28 17:34:51.582   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100015 to [15][]
+02-28 17:34:51.582   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.582   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100015, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.582   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.582   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.583   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100016, action: 0, belong to primary_input
+02-28 17:34:51.583   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100016 to [15][]
+02-28 17:34:51.583   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.583   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100016, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.583   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.583   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.584   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100017, action: 0, belong to primary_input
+02-28 17:34:51.584   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100017 to [15][]
+02-28 17:34:51.584   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.584   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100017, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.584   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.584   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.584   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100018, action: 0, belong to primary_input
+02-28 17:34:51.584   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100018 to [15][]
+02-28 17:34:51.584   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.584   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100018, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.585   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.585   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.585   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100019, action: 0, belong to primary_input
+02-28 17:34:51.585   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100019 to [15][]
+02-28 17:34:51.585   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.585   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100019, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.586   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.586   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.586   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100020, action: 0, belong to primary_input
+02-28 17:34:51.586   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100020 to [15][]
+02-28 17:34:51.586   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.586   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100020, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.586   369   458 E C01702/CgroupEventHandler: [a92ab8b6bb8eb05] HandleReportAudioCapTureState : payload does not contain uid or pid
+02-28 17:34:51.586   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.586   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.586   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100026, action: 0, belong to primary_input
+02-28 17:34:51.587   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100026 to [15][]
+02-28 17:34:51.587   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.587   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100026, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.587   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.587   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.588   344   360 I C02b88/HpaeCapturerStreamImpl: [TriggerAppsUidUpdate][100026] Enter
+02-28 17:34:51.588   344   360 I C02b86/CapturerInServer: [StartInner]set needCheckBackground_: true
+02-28 17:34:51.588   344   918 I C02b88/HpaeManager: [operator()]Trigger apps uid update sessionId: 100026 streamClassType:1
+02-28 17:34:51.588   344   360 E C02b8b/AudioUtils: [IsSwitchStreamSwitching]can not find info for sessionId:100026 in switchStreamRecord
+02-28 17:34:51.588   344   918 I C02b88/HpaeManager: [operator()]capturer apps uid update sessionId: 100026 deviceName:<private>
+02-28 17:34:51.588   344  2561 I C02b88/HpaeCapturerManager: [operator()]deviceClass: primary
+02-28 17:34:51.589   565  2603 I C05a02/PRIVACY: [IsAllowedUsingMicrophone]Id 537689555, pid -1, status 1(1-fore 2-back).
+02-28 17:34:51.589   344   360 I C05a02/PRIVACY: [IsAllowedUsingPermission]Request result is true.
+02-28 17:34:51.589   344   360 I C02b8b/AudioUtils: [NotifyPrivacyStart]Notify PrivacyKit to display the microphone privacy indicator for tokenId: 537689555 sessionId:100026
+02-28 17:34:51.589   344   360 W C02b8b/AudioUtils: [StartUsingPermission]PrivacyKit::StartUsingPermission tokenId:537689555 permission:ohos.permission.MICROPHONE
+02-28 17:34:51.590   565  2603 I C05a02/PRIVACY: [StartUsingPermission]CallerPid=344.
+02-28 17:34:51.590   565  2603 I C05a02/PRIVACY: [StartUsingPermission]Id: 537689555, pid: -1, perm: ohos.permission.MICROPHONE, type: 0, callerPid: 344.
+02-28 17:34:51.590   344   360 I C02b88/ProAudioServiceAdapterImpl: [GetAudioEffectProperty]Enter
+02-28 17:34:51.590   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnGetAudioEffectPropertyCb]Result: 0
+02-28 17:34:51.591   565  2603 I C05a02/PRIVACY: [InitializeMuteState]Mic mute state: 1.
+02-28 17:34:51.591   565  2603 I C05a02/PRIVACY: [ModifyMuteStatus]PermissionName: ohos.permission.MICROPHONE, isMute: 1, index: 3.
+02-28 17:34:51.591   565  2603 I C05a02/PRIVACY: [InitializeMuteState]Mic mute state: 0.
+02-28 17:34:51.591   565  2603 I C05a02/PRIVACY: [ModifyMuteStatus]PermissionName: ohos.permission.MICROPHONE, isMute: 0, index: 0.
+02-28 17:34:51.591   565  2603 I C05a02/PRIVACY: [GetMuteStatus]Perm: ohos.permission.MICROPHONE, isMute: 0, index: 0.
+02-28 17:34:51.592   565  2603 I C05a02/PRIVACY: [GetGlobalSwitchStatus]Permission is ohos.permission.MICROPHONE, status is 0
+02-28 17:34:51.593   556   901 I C01313/Dialog: [dialog_session_manager139]not find
+02-28 17:34:51.593   556   901 E C01336/AMS: [start_ability_utils413]nullptr
+02-28 17:34:51.593   556   901 I C01336/AMS: [start_ability_utils51]appIndex:-1
+02-28 17:34:51.595   556   901 I C01121/BMSQuery: ExplicitQueryAbility no match -n com.ohos.permissionmanager -a com.ohos.permissionmanager.GlobalExtAbility -u 100 -i 0
+02-28 17:34:51.597   556   901 I C01121/BMSQuery: ExplicitQueryExtension size:1 -n com.ohos.permissionmanager -e com.ohos.permissionmanager.GlobalExtAbility -u 100 -i 0
+02-28 17:34:51.598   556   901 I C01336/AMS: [collaborator_util70]collaborator is nullptr
+02-28 17:34:51.598   556   901 W C01123/BMSCommon: uid(3020) invalid
+02-28 17:34:51.601   556   901 W C01123/BMSCommon: uid(3020) invalid
+02-28 17:34:51.601   556   901 W C01337/EcologicalRule: [ecological_rule_interceptor233]failed,uid: 3020
+02-28 17:34:51.601   556   901 I C01337/EcologicalRule: [ecological_rule_interceptor284]ERMS's caller{_3020_565}
+02-28 17:34:51.602   556   901 I C017d7/ERMS: ERMS_STUB::OnRemoteRequest::50 OnRemoteRequest called, code=1
+02-28 17:34:51.602   556   901 I C017d7/ERMS: ERMS_STUB::VerifySystemApp::235 verifying systemApp
+02-28 17:34:51.602   556   901 I C017d7/ERMS: ERMS_STUB::VerifySystemApp::239 token type is 1
+02-28 17:34:51.602   556   901 I C017d7/ERMS: ERMS_STUB::VerifySystemApp::244 caller tokenType is native, verify success
+02-28 17:34:51.602   556   901 I C017d7/ERMS: ERMS_PARAM::Unmarshalling::98 read packageName result: 
+02-28 17:34:51.602   556   901 I C017d7/ERMS: ERMS_MAIN::QueryStartExperience::77 want bundle name = com.ohos.permissionmanager, uri = 
+02-28 17:34:51.602   556   901 I C017d7/ERMS: ERMS_MAIN::QueryStartExperience::79 callerInfo bundle name = , callerAppType = 0, targetAppType = 1
+02-28 17:34:51.602   556   901 E C01337/EcologicalRule: [ability_ecological_rule_mgr_service281]null sptrRule
+02-28 17:34:51.602   556   901 I C01336/AMS: [dialog_session_manager551]not create clone index
+02-28 17:34:51.603   556   901 W C01336/AMS: [ABMS9141]not allow, remove
+02-28 17:34:51.604   556   901 I C01340/Ext: [ABCM157]com.ohos.permissionmanager/com.ohos.permissionmanager.GlobalExtAbility
+02-28 17:34:51.604   556   901 W C01336/AMS: [ABR1570]nullptr
+02-28 17:34:51.605   556   901 I C01357/ProcessMgr: [ams_mgr_scheduler89]SubmitLoadTask: com.ohos.permissionmanager-com.ohos.permissionmanager.GlobalExtAbility
+02-28 17:34:51.605   556  1026 W C01123/BMSCommon: uid(5523) invalid
+02-28 17:34:51.606   565  2603 I C05a02/PRIVACY: [CallbackExecute]ExecuteCallbackAsync, tokenId 537689555 using permission ohos.permission.MICROPHONE, status 0, type 0, pid -1, callerPid 344.
+02-28 17:34:51.606   565  2603 I C05a02/PRIVACY: [ExecuteCallbackAsync]Add permission task name:ohos.permission.MICROPHONE537689555
+02-28 17:34:51.606   565  2603 I C05a02/PRIVACY: [ExecuteCallbackAsync]The callback execution is complete
+02-28 17:34:51.606   565  1716 I C05a02/PRIVACY: [ActiveStatusChange]Callback execute callingTokenId 672103839, tokenId 537689555, permission ohos.permission.MICROPHONE, changeType 0, usedType 0, pid -1
+02-28 17:34:51.607   344   360 I C05a02/PRIVACY: [StartUsingPermission]Result is 0.
+02-28 17:34:51.607   344   360 I C05a02/PRIVACY: [SetInputCache]Cache is added.
+02-28 17:34:51.607   344   360 I C02b86/CapturerInServer: [TurnOnMicIndicator]MicIndicator:turn on,Stream:100026
+02-28 17:34:51.607   344   360 I C02b8b/AudioCoreServiceEntry: [UpdateSessionOperation]withlock sessionId 100026, operation OPERATION_START, msg MSG_DEFAULT
+02-28 17:34:51.607   344   360 I C02b8b/AudioUsrSelectManager: [UpdateRecordDeviceInfo]UpdateRecordDeviceInfo updateType:0
+02-28 17:34:51.607   565  1716 I C05a02/PRIVACY: [operator()]Token: 537689555, pid: -1, permName:  ohos.permission.MICROPHONE, changeType: 0, ActiveStatusChange end
+02-28 17:34:51.607   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchStart] by StartClient for 7 input streams, in devices device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.607  1416  1416 I A0001a/SystemUI_Default: PrivacyIndicatorViewModel --> permission state changed.
+02-28 17:34:51.607   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.607  1416  1416 I A0001a/SystemUI_Default: PrivacyIndicatorViewModel --> indicator 2 isShow: false
+02-28 17:34:51.608   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.608   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100015 with status 0
+02-28 17:34:51.608   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.608   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.608   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100016 with status 0
+02-28 17:34:51.608   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.608   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.608   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100017 with status 0
+02-28 17:34:51.608   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.609   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.609   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100018 with status 0
+02-28 17:34:51.609   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.609   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.609   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100019 with status 0
+02-28 17:34:51.609   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.610   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.610   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100020 with status 0
+02-28 17:34:51.610   344   360 I C02b87/AudioDeviceManager: [IsConnectedDevices]isConnectedDevice 0, connected list device type:id:(category:constate:enable:exceptionflag:deviceusage) 15:2 2:1 
+02-28 17:34:51.610   344   360 I P02b8b/AudioRouterCenter: [FetchInputDevice]source:0 uid:20010044 fetch type:15 id:2 router:1
+02-28 17:34:51.610   344   360 I C02b8b/AudioCoreService: [FetchInputDeviceAndRoute][DeviceFetchInfo] device MIC: for stream 100026 with status 1
+02-28 17:34:51.610   344   360 W C02b8b/AudioCoreServicePrivate: [HandleDeviceChangeForFetchInputDevice]stream 100026 device not change, no need move device
+02-28 17:34:51.610   344   360 I C02b87/AudioActiveDevice: [SetCurrentInputDevice]Set as type: 15 id: 2
+02-28 17:34:51.610   344   360 I C02b8b/AudioCoreServicePrivate: [OnPreferredInputDeviceUpdated]OnPreferredInputDeviceUpdated Start
+02-28 17:34:51.611   344   360 I C02b87/AudioActiveDevice: [UpdateActiveDevicesRoute][PipeExecInfo] types[ 15]
+02-28 17:34:51.611   344   360 I C02b87/AudioServer: [SetIORoutes] 1st deviceType: 15, deviceSize : 1, flag: 2
+02-28 17:34:51.611   344   360 I C02b89/HdiAdapterManager: [GetId]base: 0, type: 0, info: default, id: 0
+02-28 17:34:51.611   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: default, id: 4096
+02-28 17:34:51.611   344   360 I C02b87/AudioServer: [SetAudioBalanceStatus]isAudioBalanceEnabled: 1
+02-28 17:34:51.612   344   360 W C02b87/AudioServer: [UpdateDeviceForAllSource]Capturer is not initialized.
+02-28 17:34:51.612   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 1, info: default, id: 4352
+02-28 17:34:51.612   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 1, info: voip, id: 4358
+02-28 17:34:51.612   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 12, info: default, id: 7168
+02-28 17:34:51.612   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 0, useCount: 5
+02-28 17:34:51.612   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 7168
+02-28 17:34:51.612   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: unprocess, id: 4099
+02-28 17:34:51.612   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 3, useCount: 1
+02-28 17:34:51.612   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4099
+02-28 17:34:51.612   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: ultrasonic, id: 4100
+02-28 17:34:51.612   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 4, useCount: 1
+02-28 17:34:51.612   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4100
+02-28 17:34:51.612   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: voice_recognition, id: 4101
+02-28 17:34:51.612   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 5, useCount: 1
+02-28 17:34:51.612   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4101
+02-28 17:34:51.612   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: raw_ai, id: 4103
+02-28 17:34:51.612   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 7, useCount: 1
+02-28 17:34:51.612   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4103
+02-28 17:34:51.612   344   360 I C02b8b/AudioCoreServicePrivate: [FetchCapturerPipesAndExecute][PipeFetchStart] all 7 input streams
+02-28 17:34:51.612   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100015, flag:0x0, target flag:0x1000
+02-28 17:34:51.612   556   902 I C01357/ProcessMgr: [AMSI1127]name:com.ohos.permissionmanager.GlobalExtAbility startProcessName = com.ohos.permissionmanager
+02-28 17:34:51.612   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100016, flag:0x0, target flag:0x1000
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100017, flag:0x0, target flag:0x1000
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100018, flag:0x0, target flag:0x1000
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100019, flag:0x0, target flag:0x1000
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100020, flag:0x0, target flag:0x1000
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.612   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.613   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.613   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.613   344   360 I C02b84/AudioPolicyConfigManager: [GetRouteFlag]SessionID: 100026, flag:0x0, target flag:0x1000
+02-28 17:34:51.613   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.613   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.613   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.613   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.613   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.613   344   360 E C02b87/AudioConcurrencyService: [GetConcurrencyAction]Can not find matching action for existingPipe 2 and commingPipe 2
+02-28 17:34:51.613   556   902 I C01357/ProcessMgr: [AMSI1507]processName:com.ohos.permissionmanager, isPreload:0
+02-28 17:34:51.613   344   360 I C02b84/AudioPipeSelector: [DecidePipesAndStreamAction][PipeFetchInfo] Name primary_input, PipeAction: 2
+02-28 17:34:51.613   344   360 I C02b84/AudioPipeSelector: [DecidePipesAndStreamAction]    |-[PipeFetchInfo] Id 100015, 100016, 100017, 100018, 100019, 100020, 100026,
+02-28 17:34:51.613   344   360 I C02b8b/AudioCoreServicePrivate: [FetchCapturerPipesAndExecute][PipeExecStart] for all Pipes
+02-28 17:34:51.613   344   360 I C02b8b/AudioCoreServicePrivate: [PipeExecInfo] Scan Pipe adapter: primary, name: primary_input, action: 2
+02-28 17:34:51.613   344   360 I C02b88/ProAudioServiceAdapterImpl: [GetAllSourceOutputs]Enter
+02-28 17:34:51.613  1416  1416 I C03913/AceText: [data_detector_adapter.cpp(52)-(100002:100002:scope)] Get AI entity menu from ai_engine
+02-28 17:34:51.613   556   902 W C01311/AppMS: [AMSI362]not find hap module
+02-28 17:34:51.613   344   918 I C02b88/HpaeManager: [operator()]source output number:7
+02-28 17:34:51.613   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnGetAllSourceOutputsCb]Result: 0
+02-28 17:34:51.614   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100015, action: 0, belong to primary_input
+02-28 17:34:51.614   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100015 to [15][]
+02-28 17:34:51.614   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.614   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100015, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.614   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.614   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.614   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100016, action: 0, belong to primary_input
+02-28 17:34:51.615   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100016 to [15][]
+02-28 17:34:51.615   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.615   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100016, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.616   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.616   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.616   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100017, action: 0, belong to primary_input
+02-28 17:34:51.616   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100017 to [15][]
+02-28 17:34:51.617   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.617   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100017, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.617   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.617   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.617   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100018, action: 0, belong to primary_input
+02-28 17:34:51.618   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100018 to [15][]
+02-28 17:34:51.618   556   902 I C05a01/ATM: [GetKernelPermissions]TokenID=537823327.
+02-28 17:34:51.618   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.618   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100018, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.618   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.618   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.618   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100019, action: 0, belong to primary_input
+02-28 17:34:51.618   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100019 to [15][]
+02-28 17:34:51.618   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.618   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100019, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.619   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.619   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.619   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100020, action: 0, belong to primary_input
+02-28 17:34:51.619   556   902 I C01311/AppMS: [AMSI4563]apl: normal, startFlags: 2048, userId: 100
+02-28 17:34:51.619   556   902 I C01300/AAFwk: [task_handler_wrap56]Invalid status
+02-28 17:34:51.619   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100020 to [15][]
+02-28 17:34:51.619   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.619   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100020, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.619   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.619   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.619   556   902 I C02c11/APPSPAWN_CLIENT: AppSpawnClientSendMsg reqId:16 msgLen:1056 fd:79 com.ohos.permissionmanager
+02-28 17:34:51.619   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Stream: 100026, action: 0, belong to primary_input
+02-28 17:34:51.620   207   207 I C02c11/APPSPAWN: connectionId:4 buffLen:1056
+02-28 17:34:51.620   207   207 I C02c11/APPSPAWN: Recv msgHeader magic:0xef201234 type:0 id:16 len:1056 com.ohos.permissionmanager
+02-28 17:34:51.620   207   207 I C02c11/APPSPAWN: AppSpawn msgId:16 msgLen:1056 tlvCount:6 processName:com.ohos.permissionmanager
+02-28 17:34:51.620   207   207 I C02c11/APPSPAWN: com.ohos.permissionmanager App flags 0x820 0x4 App permission bits flags 0x10 0x0
+02-28 17:34:51.620   207   207 I C02c11/APPSPAWN: uid:20010020 gid:20010020 count:1
+02-28 17:34:51.620   207   207 I C02c11/APPSPAWN: com.ohos.permissionmanager index:0 apl:normal hapFlags:0x1
+02-28 17:34:51.621  2599  2599 I C02c11/APPSPAWN: AppSpawnChild id 15 flags:0xc
+02-28 17:34:51.622  2599  2599 I C02c02/PARAM: ResetParamSecurityLabel Fd:14
+02-28 17:34:51.623  2599  2599 I C02d33/HitraceOption: FilterAppTrace com.ohos.permissionmanager 2599
+02-28 17:34:51.626  2599  2599 W C02c11/APPSPAWN: errno:2 bind mount /system/resource to /mnt/sandbox/100/com.ohos.permissionmanager/system/resource
+02-28 17:34:51.626  2599  2599 W C02c11/APPSPAWN: errno:2 bind mount /vendor/etc/hiai to /mnt/sandbox/100/com.ohos.permissionmanager/vendor/etc/hiai
+02-28 17:34:51.626  2599  2599 W C02c11/APPSPAWN: errno:13 bind mount /data/data/hiai to /mnt/sandbox/100/com.ohos.permissionmanager/data/data/hiai
+02-28 17:34:51.628   344   360 I C02b8b/AudioCoreServicePrivate: [StreamExecInfo] Move stream 100026 [15][] to [15][]
+02-28 17:34:51.628   344   360 I C02b8b/AudioPolicyUtils: [GetSourcePortName]use Built_in_mic for devicetype: 15
+02-28 17:34:51.628   344   360 I C02b88/ProAudioServiceAdapterImpl: [MoveSourceOutputByIndexOrName]SourceOutputId 100026, sourceIndex -1, sourceName Built_in_mic
+02-28 17:34:51.629  2599  2599 W C02c11/APPSPAWN: errno:2 bind mount /data/app/el1/public/shader_cache/cloud/com.ohos.permissionmanager to /mnt/sandbox/100/com.ohos.permissionmanager/data/storage/shader_cache/cloud
+02-28 17:34:51.629  2599  2599 W C02c11/APPSPAWN: check dir /data/app/el1/public/shader_cache/cloud/com.ohos.permissionmanager failed,strerror:No such file or directory
+02-28 17:34:51.629   344   918 I C02b88/HpaeManager: [MoveSourceOutputByIndexOrName]source:Built_in_mic is the same, no need move
+02-28 17:34:51.629   344   918 I C02b88/ProAudioServiceAdapterImpl: [OnMoveSourceOutputByIndexOrNameCb]Result: 0
+02-28 17:34:51.629   344   360 E C02b8b/AudioCoreService: [CheckAndSetCurrentInputDevice]current input device is same as new device
+02-28 17:34:51.629   344   360 I C02b87/AudioActiveDevice: [UpdateActiveDevicesRoute][PipeExecInfo] types[ 15]
+02-28 17:34:51.629  2599  2599 W C02c11/APPSPAWN: errno:2 bind mount /data/service/el1/public/themes/100/a/app to /mnt/sandbox/100/com.ohos.permissionmanager/data/themes/a/app
+02-28 17:34:51.630  2599  2599 W C02c11/APPSPAWN: errno:2 bind mount /data/service/el1/public/themes/100/b/app to /mnt/sandbox/100/com.ohos.permissionmanager/data/themes/b/app
+02-28 17:34:51.630   344   360 I C02b87/AudioServer: [SetIORoutes] 1st deviceType: 15, deviceSize : 1, flag: 2
+02-28 17:34:51.630   344   360 I C02b89/HdiAdapterManager: [GetId]base: 0, type: 0, info: default, id: 0
+02-28 17:34:51.630   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: default, id: 4096
+02-28 17:34:51.630   344   360 I C02b87/AudioServer: [SetAudioBalanceStatus]isAudioBalanceEnabled: 1
+02-28 17:34:51.630   344   360 W C02b87/AudioServer: [UpdateDeviceForAllSource]Capturer is not initialized.
+02-28 17:34:51.630   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 1, info: default, id: 4352
+02-28 17:34:51.630   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 1, info: voip, id: 4358
+02-28 17:34:51.630   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 12, info: default, id: 7168
+02-28 17:34:51.630   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 0, useCount: 5
+02-28 17:34:51.630   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 7168
+02-28 17:34:51.630   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: unprocess, id: 4099
+02-28 17:34:51.630   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 3, useCount: 1
+02-28 17:34:51.630   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4099
+02-28 17:34:51.630   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: ultrasonic, id: 4100
+02-28 17:34:51.630   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 4, useCount: 1
+02-28 17:34:51.630   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4100
+02-28 17:34:51.630   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: voice_recognition, id: 4101
+02-28 17:34:51.630   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 5, useCount: 1
+02-28 17:34:51.630   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4101
+02-28 17:34:51.630   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: raw_ai, id: 4103
+02-28 17:34:51.630   344   360 I C02b89/IdHandler: [IncInfoIdUseCount]infoId: 7, useCount: 1
+02-28 17:34:51.630   344   360 W C02b89/HdiAdapterManager: [GetCaptureSource]no available source, captureId: 4103
+02-28 17:34:51.630   344   360 I C02b8b/AudioCapturerSession: [ReloadCaptureSession]prepare reload session: 100026 with operation: 0
+02-28 17:34:51.630   344   360 I C02b84/AudioPipeManager: [FindPipeBySessionId]find pipe: primary_input by sessionId: 100026
+02-28 17:34:51.630   344   360 I C02b8b/AudioCapturerSession: [FindRunningNormalSession]incommingPipe: primary_input
+02-28 17:34:51.630   344   360 I C02b8b/AudioCapturerSession: [HandleNormalInputPipes]normal input
+02-28 17:34:51.631   344   360 I C02b8b/AudioCapturerSession: [HandleNormalInputPipes]find ret: 0, session: 0, sourceType: -1
+02-28 17:34:51.631   344   360 E C02b8b/AudioCapturerSession: [ReloadCaptureSession]no need to reload session
+02-28 17:34:51.631   344   360 I C02b88/HpaeCapturerStreamImpl: [Start][100026] Enter
+02-28 17:34:51.631   344   918 I C02b88/HpaeManager: [operator()]Start sessionId: 100026 streamClassType:1
+02-28 17:34:51.631   344   918 I C02b88/HpaeManager: [operator()]capturer Start sessionId: 100026 deviceName:Built_in_mic
+02-28 17:34:51.631  2599  2599 W C02c11/APPSPAWN: errno:2 bind mount /vendor/etc/passthrough to /mnt/sandbox/100/com.ohos.permissionmanager/vendor/etc/passthrough
+02-28 17:34:51.631   344   918 I C02b86/CapturerInServer: [OnStatusUpdate]CapturerInServer::OnStatusUpdate operation: 0
+02-28 17:34:51.632   344   360 E C02b86/CapturerInServer: [RebuildCaptureInjector]no need to rebuild
+02-28 17:34:51.632   344   360 I C02b89/CapturerClock: [Start]CapturerClock is start!
+02-28 17:34:51.632  2599  2599 W C02c11/APPSPAWN: errno:2 bind mount /system/app/SystemResources to /mnt/sandbox/100/com.ohos.permissionmanager/data/global/systemResources
+02-28 17:34:51.632   344  2561 I C02b88/HpaeCapturerManager: [operator()]Start sessionId 100026
+02-28 17:34:51.632   344  2561 I C02b88/HpaeSourceInputCluster: [GetSharedInstance]sourceInput:[1_44100_2_1_0] preNode:[1_44100_2_1_0]
+02-28 17:34:51.632   344  2561 I C02b88/HpaeSourceInputCluster: [GetSharedInstance]Specification of sourceInputNode is same with preNode
+02-28 17:34:51.633   344  2561 I C02b88/HpaeSourceInputCluster: [GetOutputPort]sourceinput:[1_44100_2_1_0] preNodeKey:[1_44100_2_1_0]
+02-28 17:34:51.633   344  2561 I C02b88/HpaeSourceInputCluster: [GetOutputPort]sourceInputNode is same as preNode
+02-28 17:34:51.633   344  2561 I C02b88/IHpaeCapturerManager: [OnNotifyDfxNodeInfo]connect preNodeId:235, NodeId:239
+02-28 17:34:51.633   344  2561 I C02b88/HpaeDfxMapTree: [ConnectNodes]Connection established, parent name:hpaeSourceInputNode[MIC] id:235, child name:hpaeMixerNode id:239
+02-28 17:34:51.633   344  2561 I C02b88/HpaeSourceProcessCluster: [GetSharedInstance]sourceOutput:[1_44100_2_1_0] mixerNode:[1_44100_2_1_0]
+02-28 17:34:51.633   344  2561 I C02b88/HpaeSourceProcessCluster: [GetSharedInstance]Config of sourceOutputNode is same with capture mixerNode
+02-28 17:34:51.633   344  2561 I C02b88/HpaeSourceProcessCluster: [GetOutputPort]sourceOutput:[1_44100_2_1_0] mixerNode:[1_44100_2_1_0]
+02-28 17:34:51.633   344  2561 I C02b88/HpaeSourceProcessCluster: [GetOutputPort]Config of sourceOutputNode is same with capture mixerNode
+02-28 17:34:51.633   344  2561 I C02b88/IHpaeCapturerManager: [OnNotifyDfxNodeInfo]connect preNodeId:239, NodeId:236
+02-28 17:34:51.633   344  2561 I C02b88/HpaeDfxMapTree: [ConnectNodes]Connection established, parent name:hpaeMixerNode id:239, child name:hpaeSourceOutputNode id:236
+02-28 17:34:51.633   344  2561 I C02b88/HpaeSourceOutputNode: [SetState]Capturer[]->Session[100026 - 1] state change:[PREPARED]-->[RUNNING]
+02-28 17:34:51.633   344  2561 E C02b88/HpaeSourceInputNode: [UpdateAppsUidAndSessionId]invalid source state
+02-28 17:34:51.633   344  2561 E C02b88/HpaeSourceInputNode: [CapturerSourceStart]invalid source state
+02-28 17:34:51.633   344  2561 E C02b88/HpaeCapturerManager: [CapturerSourceStart]capturer source start error, ret = -62980096.
+02-28 17:34:51.633   344  2561 E C02b88/HpaeCapturerManager: [operator()]CapturerSourceStart error.
+02-28 17:34:51.633  2599  2599 W C02c11/APPSPAWN: check dir /data/app/el1/public/aot_compiler/ark_cache/com.ohos.permissionmanager failed,strerror:No such file or directory
+02-28 17:34:51.635  2599  2599 W C02c11/APPSPAWN: errno:2 bind mount /data/service/el1/public/bms/bundle_manager_service/uninstalled_preload to /mnt/sandbox/100/com.ohos.permissionmanager/data/bms/uninstalled_preload/
+02-28 17:34:51.637  2247  2319 I C02b84/CapturerInClientInner: [OnOperationHandled]OnOperationHandled() recv operation:0 result:0.
+02-28 17:34:51.641   344   360 I C02b89/LocalDeviceManager: [GetAudioParameter]key: 0, condition: concurrent_capture_stream_info
+02-28 17:34:51.642   482   553 E C02510/audio_adapter_stub: SerStubGetExtraParams: invalid interface function GetExtraParams 
+02-28 17:34:51.642   344   360 E C057c2/IPCObjectProxy: PrintErrorDetailedInfo: failed, handle:13 error:-2 desc:*.IAudioAdapter proxy:12029408 time:93694220771
+02-28 17:34:51.642   344   360 E C02510/audio_adapter_proxy: AudioAdapterProxyGetExtraParams: call failed! error code is -2
+02-28 17:34:51.642   344   360 E C02b89/LocalDeviceManager: [GetAudioParameter]get param fail, error code: -2
+02-28 17:34:51.643   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 13, info: va, id: 7432
+02-28 17:34:51.643   344   360 E C02b89/VACaptureSource: [GetAudioParameter]device controller is null
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [GetHdiInfo]hdiInfo = 
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP0 begin---------------------
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]AppState:         2
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]SourceType:       0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CaptureState:     0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CreateDuration: 0x1
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]StartDuration:  0x93
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]FastFlag:         0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceType:    0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceAlg:     
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]deviceType:       15
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP0 end-----------------------
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP1 begin---------------------
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]AppState:         2
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]SourceType:       0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CaptureState:     0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CreateDuration: 0x1
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]StartDuration:  0x93
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]FastFlag:         0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceType:    0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceAlg:     
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]deviceType:       15
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP1 end-----------------------
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP2 begin---------------------
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]AppState:         2
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]SourceType:       0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CaptureState:     0
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CreateDuration: 0x1
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]StartDuration:  0x93
+02-28 17:34:51.643   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]FastFlag:         0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceType:    0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceAlg:     
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]deviceType:       15
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP2 end-----------------------
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP3 begin---------------------
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]AppState:         2
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]SourceType:       0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CaptureState:     0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CreateDuration: 0x1
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]StartDuration:  0x93
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]FastFlag:         0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceType:    0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceAlg:     
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]deviceType:       15
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP3 end-----------------------
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP4 begin---------------------
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]AppState:         2
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]SourceType:       0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CaptureState:     0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]CreateDuration: 0x1
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]StartDuration:  0x93
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]FastFlag:         0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceType:    0
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]hdiSourceAlg:     
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]deviceType:       15
+02-28 17:34:51.644   344   360 I C02b8b/AudioCoreServicePrivate: [LogCapturerConcurrentResult]------------------APP4 end-----------------------
+02-28 17:34:51.646   344   360 I C02b86/CapturerInServer: [CaptureConcurrentCheck]ret:0 streamIndex_:100026 status_:2
+02-28 17:34:51.646   344   360 I C02b83/AudioFramework: [MonitorOnAllCallback]type = 0
+02-28 17:34:51.646   344   360 I C02b83/AudioStreamMonitor: [OnCallback]pid = 344, callbackid = -1, sessionId = 100026, type = 0
+02-28 17:34:51.647  2247  2340 I C02b84/CapturerInClientInner: [SafeSendCallbackEvent]Send callback event, code: 0, data: 2
+02-28 17:34:51.647  2247  2340 I C02b84/CapturerInClientInner: [StartAudioStream]Start SUCCESS, sessionId: 100026, uid: 20010044
+02-28 17:34:51.647  2247  2623 E C02b82/NapiAudioCapturerCallback: [OnStateChange]Cannot find the reference of stateChange callback
+02-28 17:34:51.648   344   360 I C02b8b/AudioPolicyServer: [GetAppVolumeLevel]GetAppVolumeLevel appUid : 0
+02-28 17:34:51.648  2599  2599 I C05a03/Selinux: Hap type for com.ohos.permissionmanager is changing from u:r:appspawn:s0 to u:r:permissionmanager_hap:s0
+02-28 17:34:51.648   344   360 I C02b8b/AudioStreamCollector: [UpdateCapturerStream] client 20010044 state 2 session 100026
+02-28 17:34:51.649  2599  2599 I C05a03/Selinux: Hap setcon finish for com.ohos.permissionmanager
+02-28 17:34:51.649   344   360 I C02b89/HdiAdapterManager: [GetId]base: 1, type: 0, info: default, id: 4096
+02-28 17:34:51.650   344   360 I C02b8b/AudioStreamCollector: [PostReclaimMemoryTask]clear reclaim memory task
+02-28 17:34:51.650  2599  2599 W C03f07/MUSL-LDSO: load libsecurity_component_client_enhance.z.so failed, namespace=ndk no inherits, errno=2
+02-28 17:34:51.650  2599  2599 W C03f07/MUSL-LDSO: load libsecurity_component_client_enhance.z.so failed, namespace=default, errno=2
+02-28 17:34:51.650  2599  2599 W C03f07/MUSL-LDSO: dlopen_impl load library header failed for libsecurity_component_client_enhance.z.so
+02-28 17:34:51.650  2599  2599 E C05a05/SecCompEnhanceAdapter: [InitEnhanceHandler]init enhance lib libsecurity_component_client_enhance.z.so failed, error Error loading shared library libsecurity_component_client_enhance.z.so: No such file or directory
+02-28 17:34:51.653  2599  2599 I C02d0b/HICHECKER: hichecker param is empty.
+02-28 17:34:51.653   369  1446 E C01702/CgroupEventHandler: [a92ab9b6bb9efc2] HandleReportAudioCapTureState : payload does not contain uid or pid
+02-28 17:34:51.653  2247  2247 I A03d00/JSAPP: AudioCpaturer AudioFrameworkRecLog: buffer size:  3528
+02-28 17:34:51.654  2247  2247 I A03d00/JSAPP: AudioCpaturer AudioFrameworkRecLog: file fd created
+02-28 17:34:51.654  2247  2247 I A03d00/JSAPP: AudioCpaturer AudioFrameworkRecLog: file fd opened : Append Mode :PASS
+02-28 17:34:51.655  2247  2247 E C02b8b/NapiAudioCapturer: [CheckAudioCapturerStatus]CHECK_AND_RETURN_RET_LOG
+02-28 17:34:51.656   556   901 W C01120/BMS: bundle_permission_mgr.cpp:IsSystemApp:496 IsSystemApp 20010044,2247,537689555
+02-28 17:34:51.656   556   901 E C01120/BMS: non-system permission deny
+02-28 17:34:51.656  2599  2599 I C04500/webview: SelectWebcoreBeforeProcessRun: SelectWebcoreBeforeProcessRun for app com.ohos.permissionmanager.
+02-28 17:34:51.656  2599  2599 I C04500/webview: CalculateActiveWebEngineVersion: CalculateActiveWebEngineVersion, enforce EVERGREEN
+02-28 17:34:51.657   344   360 I C02b8b/AudioSchedule: [ScheduleReportData]Report tid 2544
+02-28 17:34:51.657  2599  2599 I C01317/AppKit: [MAINTHD3181]mainthread start, pid:2599
+02-28 17:34:51.657   207   207 I C02c11/APPSPAWN: Child process:com.ohos.permissionmanager success pid:2599 appId:15 result:0
+02-28 17:34:51.657   207   207 I C02c11/APPSPAWN: Add com.ohos.permissionmanager,pid=2599 success
+02-28 17:34:51.657  2247  2544 W C02b86/FutexTool: [FutexWait]wait:1000000000ns timeout, result:-1 sysErr[110]:Operation timed out
+02-28 17:34:51.657  2247  2544 E C02b84/CapturerInClientInner: [HandleCapturerRead]Wait timeout or breaked:1
+02-28 17:34:51.657   207   207 I C02c11/APPSPAWN: watch app process pid:2599,pidFd:30
+02-28 17:34:51.657  2247  2544 E C02b84/CapturerInClientInner: [Read]HandleCapturerRead err : -62980096
+02-28 17:34:51.659  2599  2625 W C057c1/IPCWorkThread: ThreadHandler: proto:0 policy:1 name:OS_IPC_0_2625 invoker:4071488
+02-28 17:34:51.660  2599  2626 W C057c1/IPCWorkThread: ThreadHandler: proto:0 policy:0 name:OS_IPC_1_2626 invoker:4071840
+02-28 17:34:51.662  2599  2627 I C02d06/XCollie: init default task finished.
+02-28 17:34:51.662  2247  2247 I A03d00/JSAPP: AudioCpaturer AudioFrameworkRecLog: read err: {"code":6800301}
+02-28 17:34:51.663  2247  2247 I C03f05/NAPI: ID: 90, cnt: 65
+02-28 17:34:51.664  2247  2247 E A03d00/JSAPP: [Hypium]stack:Cannot get SourceMap info, dump raw stack:
+02-28 17:34:51.664  2247  2247 E A03d00/JSAPP:     at AssertException (entry|@ohos/hypium|1.0.16|src/main/service.js:6:1)
+02-28 17:34:51.664  2247  2247 E A03d00/JSAPP:     at anonymous (entry|@ohos/hypium|1.0.16|src/main/service.js:814:1)
+02-28 17:34:51.664  2247  2247 E A03d00/JSAPP:     at anonymous (entry|entry|1.0.0|src/ohosTest/ets/test/AudioCapturer.test.ts:1326:31)
+02-28 17:34:51.664  2247  2247 E A03d00/JSAPP: [Hypium]stack end
+02-28 17:34:51.664  2247  2247 I A03d00/JSAPP: [Hypium][fail]SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100 ; consuming 120ms
+02-28 17:34:51.664  2247  2247 I A03d00/JSAPP: [Hypium][failDetail]expect true, actualValue is false
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: class=audioCapturer
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: current=21
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: id=JS
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: numtests=115
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: stack=Cannot get SourceMap info, dump raw stack:
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP:     at AssertException (entry|@ohos/hypium|1.0.16|src/main/service.js:6:1)
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP:     at anonymous (entry|@ohos/hypium|1.0.16|src/main/service.js:814:1)
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP:     at anonymous (entry|entry|1.0.0|src/ohosTest/ets/test/AudioCapturer.test.ts:1326:31)
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: stream=Error in SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100, expect true, actualValue is false
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS_CODE: -2
+02-28 17:34:51.665  2247  2247 I A03d00/JSAPP: OHOS_REPORT_STATUS: consuming=120
+02-28 17:34:51.665  2247  2247 I C01330/Delegator: [js_ability_delegator662]argc: 1
+02-28 17:34:51.665  2247  2247 I C01330/Delegator: [js_ability_delegator1320]enter
+02-28 17:34:51.665  2247  2247 I C01330/Delegator: [ability_delegator352]Enter
+02-28 17:34:51.665  2247  2247 I C01303/AATool: [test_observer_proxy23]created
+02-28 17:34:51.665  2247  2247 I C01330/Delegator: [ability_delegator365]message: 
+02-28 17:34:51.665  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: class=audioCapturer
+02-28 17:34:51.665  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: current=21
+02-28 17:34:51.665  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: id=JS
+02-28 17:34:51.665  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: numtests=115
+02-28 17:34:51.665  2247  2247 I C01303/AATool: [test_observer_proxy33]start
+02-28 17:34:51.665  2247  2247 I C01303/AATool: [test_observer_proxy28]destroyed
+02-28 17:34:51.666  2247  2247 I C01330/Delegator: [js_ability_delegator662]argc: 1
+02-28 17:34:51.666  2314  2317 I C01303/AATool: [test_observer43]enter, msg : 
+02-28 17:34:51.666  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: class=audioCapturer
+02-28 17:34:51.666  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: current=21
+02-28 17:34:51.666  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: id=JS
+02-28 17:34:51.666  2314  2317 I C01303/AATool: OHOS_REPORT_STATUS: numtests=115, code : 0
+02-28 17:34:51.666  2247  2247 I C01330/Delegator: [js_ability_delegator1320]enter
+02-28 17:34:51.666  2247  2247 I C01330/Delegator: [ability_delegator352]Enter
+02-28 17:34:51.666  2247  2247 I C01303/AATool: [test_observer_proxy23]created
+02-28 17:34:51.666  2247  2247 I C01330/Delegator: [ability_delegator365]message: OHOS_REPORT_STATUS: stack=Cannot get SourceMap info, dump raw stack:
+02-28 17:34:51.666  2247  2247 I C01330/Delegator:     at AssertException (entry|@ohos/hypium|1.0.16|src/main/service.js:6:1)
+02-28 17:34:51.666  2247  2247 I C01330/Delegator:     at anonymous (entry|@ohos/hypium|1.0.16|src/main/service.js:814:1)
+02-28 17:34:51.666  2247  2247 I C01330/Delegator:     at anonymous (entry|entry|1.0.0|src/ohosTest/ets/test/AudioCapturer.test.ts:1326:31)
+02-28 17:34:51.666  2247  2247 I C01303/AATool: [test_observer_proxy33]start
+02-28 17:34:51.666  2247  2247 I C01303/AATool: [test_observer_proxy28]destroyed
+02-28 17:34:51.666  2314  2478 I C01303/AATool: [test_observer43]enter, msg : OHOS_REPORT_STATUS: stack=Cannot get SourceMap info, dump raw stack:
+02-28 17:34:51.666  2314  2478 I C01303/AATool:     at AssertException (entry|@ohos/hypium|1.0.16|src/main/service.js:6:1)
+02-28 17:34:51.666  2314  2478 I C01303/AATool:     at anonymous (entry|@ohos/hypium|1.0.16|src/main/service.js:814:1)
+02-28 17:34:51.666  2314  2478 I C01303/AATool:     at anonymous (entry|entry|1.0.0|src/ohosTest/ets/test/AudioCapturer.test.ts:1326:31), code : 0
+02-28 17:34:51.666  2599  2599 I C01317/AppKit: [MAINTHD427]attach
+02-28 17:34:51.666  2247  2247 I C01330/Delegator: [js_ability_delegator662]argc: 1
+02-28 17:34:51.666  2247  2247 I C01330/Delegator: [js_ability_delegator1320]enter
+02-28 17:34:51.667  2247  2247 I C01330/Delegator: [ability_delegator352]Enter
+02-28 17:34:51.667  2247  2247 I C01303/AATool: [test_observer_proxy23]created
+02-28 17:34:51.667  2247  2247 I C01330/Delegator: [ability_delegator365]message: OHOS_REPORT_STATUS: stream=Error in SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100, expect true, actualValue is false
+02-28 17:34:51.667  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100
+02-28 17:34:51.667  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS_CODE: -2
+02-28 17:34:51.667  2247  2247 I C01330/Delegator: OHOS_REPORT_STATUS: consuming=120
+02-28 17:34:51.667  2247  2247 I C01303/AATool: [test_observer_proxy33]start
+02-28 17:34:51.667  2247  2247 I C01303/AATool: [test_observer_proxy28]destroyed
+02-28 17:34:51.667  2247  2247 I A03d00/JSAPP: [Hypium]SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100 specDone end print success
+02-28 17:34:51.667  2314  2478 I C01303/AATool: [test_observer43]enter, msg : OHOS_REPORT_STATUS: stream=Error in SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100, expect true, actualValue is false
+02-28 17:34:51.667  2314  2478 I C01303/AATool: OHOS_REPORT_STATUS: test=SUB_MULTIMEDIA_AUDIO_VOIP_CAP_PROMISE_READ_BUFFER_0100
